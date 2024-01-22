@@ -110,8 +110,9 @@ This section discusses the usability issues, as well as observations and partici
 
 ### **Dropdown Button**
 
-1. 14  participants successfully opened the Dropdown Button. 1 Participant (P3) wanted to see all options (not in a drop down).
-2. No issues or difficulty of use/understanding with the Dropdown Button.
+1. 14 participants successfully opened the Dropdown Button.
+2. 1 Participant (P3) wanted to see all options (not in a drop down).
+3. No issues or difficulty of use/understanding with the Dropdown Button.
 
 ### **Loading Button**
 

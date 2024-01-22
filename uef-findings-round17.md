@@ -4,7 +4,7 @@ Results overview from Round 17 of the user feedback sessions
 
 ## Background
 
-The UEF team conducted usability testing to evaluate specific UEF patterns in the context of a non-linear Pro Template application prototype on desktop devices.
+The User Experience Framework (UEF) team conducted usability testing to evaluate specific UEF patterns in the context of a non-linear Pro Template application prototype on desktop devices.
 The following patterns were evaluated in Round 17 Testing:
 
 - PRO Template Responsive Tabs
@@ -22,7 +22,7 @@ The following patterns were evaluated in Round 17 Testing:
 
 ## Methodology
 
-The UXG UEF team conducted usability testing with six participants on June 18-19, 2019. The evaluations took place in the UXG labs at SSA. All evaluations were conducted on desktop computers.
+The User Experience Group (UXG) UEF team conducted usability testing with six participants on June 18-19, 2019. The evaluations took place in the UXG labs at SSA. All evaluations were conducted on desktop computers.
 
 Rapid Iterative Testing Evaluation (RITE) was the method of choice during round 17. The team conducted three rounds of evaluations with two participants at a time (six total participants). After each round, the facilitators and the UXG UEF team met for a half hour debrief. During each debrief the team discussed the issues found and potential changes to the patterns that would be shown to the next set of participants.
 

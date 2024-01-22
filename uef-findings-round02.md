@@ -2,7 +2,7 @@
 
 ## Background
 
-The User Experience Framework (UEF) team at Social Security Administration (SSA) conducted usability testing on August 14, 2013 at Glenwood Community Center in Columbia, MD. This research was conducted to learn more about patterns intended for use in the Social Security Administration (SSA) User Experience Framework (UEF) version 2.0. The methodology of this round was kept the same to learn if the use of the patterns in a different demographic location made a difference. The prototype was updated slightly to accomodate for findings from the previous round of testing.
+The User Experience Framework (UEF) team at Social Security Administration (SSA) conducted usability testing on August 14, 2013 at Glenwood Community Center in Columbia, MD. This research was conducted to learn more about patterns intended for use in the Social Security Administration (SSA) User Experience Framework (UEF) version 2.0. The methodology of this round was kept the same to learn if the use of the patterns in a different demographic location made a difference. The prototype was updated slightly to accommodate for findings from the previous round of testing.
 
 Patterns used in this round of testing included:
 

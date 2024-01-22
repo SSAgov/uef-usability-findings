@@ -19,7 +19,7 @@ The following patterns were evaluated in Round 16 Testing:
 
 ## Methodology
 
-The UXG UEF team conducted usability testing with twelve participants on February 27, 2019. The evaluations took place at the BCPL Owings Mills Branch. Evaluations were conducted on tablet and mobile  devices.
+The UXG UEF team conducted usability testing with twelve participants on February 27, 2019. The evaluations took place at the Baltimore County Public Library (BCPL) Owings Mills Branch. Evaluations were conducted on tablet and mobile devices.
 
 During each evaluation, participants walked through a series of scenarios that allowed them to look at each of the patterns being tested. The prototype design was a fictitious external application to update a mySSA application.
 
@@ -29,15 +29,15 @@ Twelve participants were involved in the evaluations. Their demographic informat
 
 - Participants were between the ages of 17 and 79 with an average age of 42
 - Four out of twelve participants have a degree of higher education (4-year or graduate)
-  -Three participants have a grad degree
-  -One participant has a 4-year degree
-  -Five participants have some college
+  - Three participants have a grad degree
+  - One participant has a 4-year degree
+  - Five participants have some college
 - Seven out of twelve participants access the internet on a Desktop, Tablet and Smartphone
 - Two out of twelve participants have a mySocialSecurity account online
 - Four  out of twelve participants use a mobile device for emails, browsing, news, social media and banking
 - Eight out twelve participants would use a desktop or laptop to access SSA.gov
-  -Two participants would use a tablet
-  -One participant would use a smartphone
+  - Two participants would use a tablet
+  - One participant would use a smartphone
 
 ## Lessons Learned
 
