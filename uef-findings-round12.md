@@ -18,7 +18,7 @@ Testing was conducted on the following types of devices: Smartphones (iOS and An
 
 ## The Prototype
 
-The prototype was designed to incorporate two separate scenarios. The first scenario walked the participant through a MySSA application testing all patterns listed above except one. The Tree Structure pattern was shown in the second scenario time permitting.
+The prototype was designed to incorporate two separate scenarios. The first scenario walked the participant through a fake MySSA application testing all patterns listed above except one. The Tree Structure pattern was shown in the second scenario, time permitting.
 
 ## Viewport Sizes
 
@@ -110,183 +110,57 @@ This section discusses the usability issues, as well as observations and partici
 
 ### **Dropdown Button**
 
-1. 14 participants successfully opened the Dropdown Button.
-2. 1 Participant (P3) wanted to see all options (not in a drop down).
-3. No issues or difficulty of use/understanding with the Dropdown Button.
+1. Fourteen out of 15 participants successfully opened the Dropdown Button.
+2. There were no major issues with use or understandability.
+3. One participant wanted to see the options outside of the drop down. (This comment was towards the app as a whole rather than the pattern directly.)
 
 ### **Loading Button**
 
 1. All 15 participants understood what the loading button was doing.
 2. All participants found the loading button to be useful.
-3. P6 thought it was calculating
-4. P4 “It’s loading/submitting”
+3. One participant thought it was calculating.
 
 ### **Progress**
 
-1. 13 of 15 participants were confused by this pattern.
-
-**Participant comments:**
-
-General:
-> Confused
->
-> P22: “this page is useless”
->
-> P23: “Nothing is clickable”
->
-> “Surprised to see a help icon this page” –user didn’t want help with the progress.
-
-Notes:
->Maybe “Steps” would be a better solution for the prototype?
-
-Progress Bar not clickable:
-> P22 “How come we couldn’t see this step at the beginning?”
->
-> P1: clicked on bar (Tried to click on bar)
-
-Clicking the Icon VS Help Link
-> P1: Wanted to click the icon, but was unable.
->
-> All users eventually clicked “help” link
+1. Thirteen of 15 participants were confused by the Progress pattern.
+2. Several participants expected the pattern to be interactive and was frustrated when it was static.
+3. All users eventually selected the Help link after attempting to select the progress bar.
+4. One participant was surprised to see the help icon.
 
 ### **Popover**
 
-1. More info, not that helpful. Arrow would expand the line for more information”
-2. Clicking the  popover, those would be links [to their steps]”Of the six participants who clicked on the pattern:
+The popover was tested from the Progress pattern Help Link.
 
-**Participant comments:**
-
-General:
-> P7, P13 Wanted to see a FAQ here not steps
->
-> P22 Didn’t click anything. Didn’t know how to close the popover.
->
-> P1, 23, 22: Difficulty opening/closing the popover. (Mobile users-Small screens and an older user)
+1. Most participants did not expect a popover from the Help Link.
+2. A few participants had difficulty dismissing the popover, especially on smaller screens.
+3. Comments were specific to the design of the Progress (e.g. wanting to see an FAQ inside of the Help link instead of steps)
 
 ### **Full Page Calendar**
 
-**Participant comments:**
+The Full Page Calendar was tested using a tool called "FullCalendar.io" that was embedded into the prototype. The only functionality tested was the month view.
 
-Filter:
-> P11: “Filter was easy to use, need more time slots.”
->
-> P1: Liked that it gave filter options
->
-> P7: Would prefer month first
->
-> P16, 13: Would use week view first, not month
->
-> P2: “Filter not super friendly. Too much going on.” Wanted to see dates with times. Likes Kaiser Permanente scheduling calendar.
->
-> P12: Didn’t see filtering options.
-
-“Simple, easy to use.”
-> “Didn’t ask what language.”
->
-> “Basic, didn’t do much”
->
-> “Switching between month, day, week was confusing.” (P6)
->
-> “Should see a drop down once selected a date/time” (P6)
-
-Issues with scrolling:
-> P11: only saw till 2pm
->
-> P16: Times started at 12am, 1am
-
-Small Screens – Did they turn sideways?:
-> P1, 3, 7: Didn’t like it at first, turned to view in landscape
->
-> P3: Turned to landscape with no issues
-
-General:
-> P4: “See all day. I like that.”
->
-> P16: “Clean/Clear, straightforward”
->
-> P13: “As good as google. Better than Excel.”
->
-> P12: “Convenient, easy. Not clear what is available.” Didn’t know the current day was highlighted.
->
-> P2, 5: Couldn’t do it.
->
-> P12: “Similar to other software”
->
-> P1: “Don’t know how to get to them. Should show was is available”
->
-> P1, 2, 4: Difficulty selecting a time (no other information was provided)
-
-Notes:
-> Larger screens were better. Next prototype, we take it a step further and allow the user to select an appointment.
->
->Users were shown appointments already taken, some users preferred seeing ones that were open instead.
->
->Should look at how Labcorp and Kaiser do their scheduling
+1. Several participants felt that the calendar was simple and easy to use.
+2. Some participants stated that they would prefer to see the month view first, while others wanted to see the week view by default.
+3. Some participants mentioned that they liked that it gave the option to toggle between day, week, and month.
+4. Some participants stated that the calendar is similar to other software they have used (i.e. Google, Excel)
+5. A couple participants turned the smartphone landscape because they did not like the portrait view.
+6. Some participants had difficulty selecting a time.
+7. One participant stated that they felt the calendar was not clear and did not know the current day was highlighted.
+8. One participant felt that the calendar was too basic and did not do much.
+9. One participant felt that switching between the views was confusing and expected to see a drop down when selecting a date and time.
+10. One participant stated that they wanted to see the available appointments.
 
 ### **Tree Structure**
 
-1. P3, P13 and P15 ignored the tree structure to complete the tasks (incorrectly)
-
-**Participant comments:**
-Clicked the name, not the arrow for drop down:
-
-> P5, 12: Wanted to see everyone below the manager when they click the name.
->
-> P3, 12, 13, 16: Clicked the name, not the arrow (So didn’t see the names below the manager)
->
-> P5: “Arrows aren’t clickable”
->
-> P12: Knew it was clickable, but didn’t know it would expand
->
-> P7: Thought the name and arrow was the same interaction
-
-General:
-> P15: Concerned the tree structure would be screwed up if they make any changes to the manager.
-
-Notes:
-Initial screen should be blank on the right hand side. (or have a “dummy info”). People were confused – and tried to interact in this section first, before using the tree structure (after prompting)
+1. Six participants selected the name instead of the arrow to expand the section
+2. Three participants did not use the tree structure to complete the tasks.
+3. Some participants were concerned about making edits to the tree structure and did not want to mess up the structure.
 
 ### **Summary**
 
-1. Overall, what do you think of the website?
-
-**Participant comments:**
-General:
-> People generally liked everything. Easy, straightforward
-
-Look and Design comments:
-> P5: “Not clear why were are doing this on the phone”
->
-> P4: “pretty”
-
-Like or Dislike:
-
-> P12: “Not too much detail is good”
->
-> P15: Didn’t like the tree structure
->
-> P6: Tree structure: Scared of changing the entire branch
->
-> P1: “Font and screen was too small to complete tasks” (using iPhone 5)
-
-Add/Remove/Change:
-> P14: “Blue is good, very gentle soft”
->
-> P15: “If I can’t do it, don’t show it” (tree structure)
->
-> P5: “Why would we use this on the phone?”
->
-> P12: “Not too complicated”
->
-> P15: “Without a stylus, it’s hard to click”
->
-> P6: “Pleasant and refreshing”
->
-> P4: “Smooth”
->
-> P1: “Too small, problems with fingers and gestures”
->
-> P23: Liked condition of the tree structure.
+1. Overall, participants generally liked everything and felt it was easy and straightforward.
+2. Some participants were confused about why they would complete these tasks on a phone. Most likely due to readability or security concerns.
+3. Some participant had difficulty selecting items on the phone due to their fingers or gestures. One mentioned that without a stylus it was difficult to select items on the screen.
 
 ## Recommendations and Next Steps
 
