@@ -8,6 +8,7 @@ The UEF team conducted usability testing to evaluate specific UEF patterns in th
 
 The following patterns were evaluated in Round 13 Testing:
 
+- Dropdown Button
 - Progress Bar
 - Tree Structure
 - Multi Select
@@ -112,98 +113,71 @@ Scale of 1-5 where 1 = lowest and 5=highest
 
 This section discusses the usability issues, as well as observations and participant comments. The patterns tested within this evaluation group the findings.
 
-#### **Dropdown Button**
+#### Dropdown Button
 
 1. 13 participants successfully opened the Dropdown Button.
-2. 2 Participants (iPhone 5 and Samsung Galaxy S3) Couldn’t see below the fold.
-3. No issues or difficulty of use/understanding with the Dropdown Button.
+2. 2 Participants (iPhone 5 and Samsung Galaxy S3) Couldn’t see the button below the fold.
+3. There were no major issues with use or understandability.
 
-#### **Progress**
+#### Progress
 
 1. 15 participants had no issues with the progress pattern.
-  1.1 One user testing on an iPad said the visibility of the 2nd “processing” was an issue
-  1.2 One Samsung Galaxy S3 user wanted to see more information for the progress pattern.
 
-#### **Toggle**
+    1.1 One iPad participant said that the “processing” label below the progress was confusing.
+
+    1.2 One Samsung Galaxy S3 participant wanted to see more information for the progress pattern.
+
+#### Toggle
 
 1. 6 of 17 participants were confused by this pattern
 
-    1.1. 4 users (2 using an iPad and 2 using the Galaxy S3) asked “Where is the yes?”
+    1.1. Four participants (2 using an iPad and 2 using the Galaxy S3) asked “Where is the yes?”
 
-    1.2. 2 users Didn’t know what to do with the toggle button.
+    1.2. Two participants Didn’t know what to do with the toggle button.
 
-    1.3. 1 user (Galaxy S3) said “Unsure I answered the way I want”
+    1.3 Two participants (Desktop), and (Galaxy S3) Tried to slide the circle. (similar to iPhone unlock interaction)
 
-    1.4. 1 user (Galaxy S3) “Didn’t expect the circle to move”
+    1.4 One participant (Galaxy S3) said “Unsure I answered the way I want”
 
-    1.5. 2 users (Desktop), and (Galaxy S3) Tried to slide the circle. (similar to iPhone unlock interaction)
+    1.5 One participant (Galaxy S3) “Didn’t expect the circle to move”
 
-    1.6. 1 User (Desktop) was confused with the visuals: White circle matches the progress bar circle visually. Did not mean the same thing, contradictory messages.
+    1.6 One participant (Desktop) was confused with the visuals: White circle matches the progress bar circle visually. Did not mean the same thing, contradictory messages.
 
-    1.7. 1 user (Samsung Galaxy S3) Reluctant to click the circle. Thought it was going to take them to another page where they could see all options.
+    1.7 One participant (Samsung Galaxy S3) was reluctant to click the circle and thought it would take them to another page where they could see all options.
 
-#### **Multi-Select**
+#### Multi-Select
 
-1. 2 users (iPad & Desktop) liked alphabetical order. “What I expected”
-2. 1 user (iPad) Entered China into search field (understood they were able to search)
-3. 1 user (Galaxy S3) was unable to click arrow to open multi-select. (same user as above)
-4. 1 user (Desktop) Clicked arrow first not “Select”
-5. 1 user (Galaxy S3) Didn’t think ANYTHING was clickable. Not the Arrow or name.
+1. Two participants (iPad & Desktop) liked alphabetical order. “What I expected”
+2. One participant (iPad) Entered China into search field (understood they were able to search)
+3. One participant (Galaxy S3) was unable to click arrow to open multi-select. (same user as above)
+4. One participant (Desktop) Clicked arrow first not “Select”
+5. One participant (Galaxy S3) Did not think anything was clickable within the pattern.
 
-#### **Tree Structure**
+#### Tree Structure
 
 1. 11 of the 17 participants did not know the chevron was clickable.
 
-**Participant comments:**
+    1.1 Two participants (iPad, iPad) Didn’t click arrow
 
-General:
-> One user (iPad) said chevron looked similar to bullets, didn’t know it was clickable.
->
-> One user (iPad) “Frustrating”
->
-> Two users (iPad, iPad) Didn’t click arrow
->
-> One user (Desktop) Saw red hover on name, but no red hover on chevron – didn’t know it as clickable
->
-> One user (iPad) Clicked name, not arrow – never saw the names below
->
-> One user (iPad) “Maybe plus sign would be better”
->
-> One user (iPhone5) “Arrow and name should have same functionality” – paraphrasing
->
-> One user (iPad) “Bold, different colors” confused which interaction are interactions  look this one up again
+    1.2 One participant (iPad) said chevron looked similar to bullets, didn’t know it was clickable.
 
-#### **Summary**
+    1.3 One participant (iPad) stated that the pattern was "frustrating.”
 
-**Participant comments:**
+    1.4 One participant (Desktop) saw the red hover on the name but no red hover on chevron and did not think it was clickable
 
-Overall, what do you think of the website?
+    1.5 One participant (iPad) clicked name, not arrow – never saw the names below
 
-General:
-> users thought it was very easy. Some made comments that it was too technical.
+    1.6 One participant (iPad) stated “Maybe a plus sign would be better.”
 
-Look and Design:
-> 1 user (iphone5): “Neat and Clean”
->
-> 1 user (iphone5): “Its Fine”
+    1.7 One participant (iPhone5) stated that "the arrow and the name should have the same functionality”
 
-Like or Dislike:
-> 1 user (iphone5): “Not too much detail is good”
->
-> 1 user (iPhone 5): Didn’t like the tree structure
->
-> 1 user (Galaxy s3): Tree structure: Scared of changing the entire branch
->
-> 1 user (iPhone 5): “Font and screen was too small to complete tasks” (using iPhone 5)
+### Summary
 
-Add/Remove/Change:
-> 1 user (iPad): “It would be nice to see all the steps”
->
-> 1 user (iPad): “Would not access app from phone”
->
-> 1 user (Desktop): “Why would we use this on a desktop?”
->
-> 1 user (iPhone 5): “Not too complicated”
+Overall, most participants thought the site was very easy. Some participants made comments that it was too technical. One participant commented that the site was "neat and clean."
+
+Two participants commented that they did not like the tree structure as they were worried about changing the content in the structure.
+
+As seen in past testing, some participants noted that the “font and screen was too small to complete tasks [on a smartphone].” A couple stated that they would prefer to complete these tasks on a desktop.
 
 ## Recommendations and Next Steps
 
