@@ -102,14 +102,20 @@ Smartphone
 - 1 of the 5 participants went directly to the “Go to…” button to go back to a particular section in the application and again to return to where he had left off.
 - Of the 4 remaining participants, 2 used the “Go to…” button to return to where they’d left off in the application; the other 2 instead clicked the “Next” button to page forward, despite it taking longer
 
+![Go To Button on Smartphone](/screenshots/round-4/01-go-to-phone.png)
+
 Tablet
 
 - 2 of the 4 participants used the “Go to…” button to go back to a particular section in the application and then return to where they’d left off.
 - 1 of the remaining participants used it to return to her prior place in the application after the functionality was explained by the facilitator; the other used the “Next” button to page forward
 
+![Go To Button on Tablet](/screenshots/round-4/01-go-to-tablet.png)
+
 Desktop
 
 - 1 of the 2 participants used the “Go to…” navigation to go back in the application; the other participant used it to get back to where she’d left off after the functionality was explained by the facilitator
+
+![Go To Button on Desktop](/screenshots/round-4/01-go-to-desktop.png)
 
 ### UEF PATTERNS
 
@@ -131,27 +137,37 @@ Desktop
 
 - The 2 desktop participants did not know what AR meant but did not click the definition link
 
+![Definition Link](/screenshots/round-4/02-definition-link.png)
+
 #### **State Input**
 
 - 2 iPhone users were confused after clicking the dropdown: they expected to see states but saw only Armed Forces input options due to fewer options visible on the iOS scroll wheel. This input was not problematic for the Android phone users.
   - 1 of these 2 participants stated “it would be better if states were shown first”
 - There were no issues or comments for tablet or desktop users
 
+![State Pattern](/screenshots/round-4/03-state.png)
+
 #### **SSN Input**
 
 - 2 mobile phone participants commented on the SSN format; 1 would like it “chunked” and 1 stated it would be easier to use if dashes were “automatically put in”
 - There were no issues or comments for tablet or desktop users
+
+![Social Security Number Pattern](/screenshots/round-4/04-ssn.png)
 
 #### **Date (of Event)**
 
 - 1 mobile phone participant expected to input Date of Birth via a single scroll wheel providing month, day & year, vs. individual wheels or inputs
 - There were no issues or comments for tablet or desktop users
 
+![Date Pattern](/screenshots/round-4/05-date-of-event.png)
+
 #### **Error Summary Notice**
 
 - 2 participants suggested the links would be more useful by providing additional information such as the location of check routing and account numbers
 - The only participants who clicked on the error links provided in this pattern were 2 tablet users
 - There were no issues or comments from desktop users
+
+![Error Summary and Field Errors](/screenshots/round-4/06-error-summary.png)
 
 ### SCREEN DETAILS
 
@@ -161,17 +177,23 @@ Desktop
 - 2 of the 4 tablet users clicked on the inline link.
 - All (2) desktop users clicked on the inline link.
 
+![Information You Need Link](/screenshots/round-4/07-info-you-need-link.png)
+
 #### **Password Strength Indicator**
 
 - 3 of the 5 participants mentioned noticing the indicator
 - 1 of the 4 participants indicated noticing the indicator
 - Neither of the desktop participants commented on the indicator
 
+![Password Strength Indicator](/screenshots/round-4/08-password-indicator.png)
+
 #### **Password Matching Indicator**
 
 - 2 of the 5 participants mentioned noticing the password matching indicator
 - 1 of the 4 participants mentioned she liked the password matching indicator graphic
 - Neither of the desktop participants commented on the password matching indicator
+
+![Password Matching Indicator](/screenshots/round-4/08-password-match.png)
 
 #### **“Save This Page” Link**
 
@@ -189,6 +211,8 @@ Tablet
 - 1 participant voiced uncertainty as to where on the device itself the pdf would be saved
 - After seeing what happened with the link was clicked, 1 participant stated he’d like to take a screenshot of it; another would like to email it to himself
 - 1 participant thought information would be saved to both her desktop AND ssa.gov
+
+![Save This Page Link](/screenshots/round-4/09-save-this-page-link.png)
 
 #### **“Go to” Menu Status Indicators**
 
@@ -237,6 +261,8 @@ Gray Text
 - 1 tablet participant was unsure
 - 1 desktop participant understood it to indicate a future section of the application
 - 1 desktop participant was unsure
+
+![Sub-Navigation](/screenshots/round-4/10-sub-navigation.png)
 
 ## Next Steps
 
