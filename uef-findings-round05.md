@@ -129,15 +129,23 @@ Small Breakpoint
 - 5 participants did not expect to find the Sign Out in the Menu.
 - 1 participant wanted the menu to drop down from the top instead of from the right.
 
+![Closed Menu on Smartphone](/screenshots/round-5/01-menu-mobile1.png)
+
+![Open Menu on Smartphone](/screenshots/round-5/01-menu-mobile2.png)
+
 Large Breakpoint
 
 - 1 participant took “awhile” to find it and suggested “Maybe it should be over by Home.”
+
+![Menu on Desktop](/screenshots/round-5/02-menu-desktop.png)
 
 #### **Hamburger Icon**
 
 - 7 of the 22 participants had no issues, quickly selecting this icon to see what options it presented; 1 of those stated it was “intuitive,” another stated it was “just like other sites,” and a 3rd stated it was easy.
 - 1 participant who had difficulty finding the Sign Out under the hamburger icon commented that the icon is “ambiguous.”
 - No specific comments on the large breakpoint.
+
+![Hamburger Menu Icon](/screenshots/round-5/03-hamburger-icon.png)
 
 #### **Sign Out**
 
@@ -161,6 +169,8 @@ Large Breakpoint
 
 - 1 participant said it would be nice for state to auto-populate after selecting zip.
 
+![Address Pattern](/screenshots/round-5/04-address.png)
+
 #### **Definition Link**
 
 Small Breakpoint
@@ -173,6 +183,8 @@ Large Breakpoint
 
 - 3 participants did not know what EIN was and wanted a “What’s this?” type of help.
 - 1 participant clicked on the definition link and liked it.
+
+![Definition using Help Link](/screenshots/round-5/05-definition-help-link.png)
 
 #### **Password (Create)**
 
@@ -188,9 +200,15 @@ Large Breakpoint
 - Another commented that the password requirements were too complicated.
 - A 3rd participant commented that password feedback was very nice, but that the rules were too ‘stringent’ and ‘might be hard to remember.”
 
+![Password with No Text Entered](/screenshots/round-5/06-password-none.png)
+
+![Password with Success and Errors](/screenshots/round-5/06-password-errors.png)
+
 #### **Agreement Checkbox**
 
 - No issues noted on either breakpoint.
+
+![Agreement Checkbox](/screenshots/round-5/07-agreement.png)
 
 #### **Container with Tabs**
 
@@ -205,11 +223,15 @@ Small Breakpoint
 - Yet another participant who had difficulty suggested “Instead of an arrow, how about ‘More….’”
 - 1 participant had no problem with the icon.
 
+![Container with Tabs on Mobile](/screenshots/round-5/08-container-tabs-mobile.png)
+
 Large Breakpoint
 
 - 1 participant shuffled through the tabs multiple times; they appeared to be trying to rectify multiple tab layers.
 - Another participant immediately understood the tabs, while a 3rd took a while to find it.
 - 1 participant did not think to scroll down because the containers fit the screen. They did not notice there was more.
+
+![Container with Tabs on Desktop](/screenshots/round-5/08-container-tabs-desktop.png)
 
 #### **International Address**
 
@@ -225,17 +247,31 @@ Large Breakpoint
 - 1 participant wanted to put France in the State/Territory field and did not change the country to France.
 - 1 participant wanted to “invoke the keyboard when choosing a country.”
 
+![International Address U.S. Selected](/screenshots/round-5/09-intl-address-us.png)
+
+![International Address France Selected](/screenshots/round-5/09-intl-address-france.png)
+
 #### **Check List (Select All)**
 
 - 1 participant volunteered that they “liked the check list.”
 - Another participant suggested the maybe the “Select all” could be at the bottom.
 - No issues noted on the large breakpoint.
 
+![Checklist Select All](/screenshots/round-5/10-check-list-select-all.png)
+
 #### **International Bank Information**
 
 - 2 participants clicked the IBAN “? What’s this?” help link.
 - 1 participant asked why the bank country list was so much shorter than the previous country list.
 - 1 participant on the large breakpoint entered IBAN for the bank name.
+
+![International Bank Information](/screenshots/round-5/11-intl-bank-info-1.png)
+
+![International Bank Information](/screenshots/round-5/11-intl-bank-info-2.png)
+
+![International Bank Information](/screenshots/round-5/11-intl-bank-info-3.png)
+
+![International Bank Information](/screenshots/round-5/11-intl-bank-info-4.png)
 
 #### **Radio List (Other)**
 
