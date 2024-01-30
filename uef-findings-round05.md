@@ -280,7 +280,7 @@ Large Breakpoint
 - 3 participants wondered what date format they should be entering into the “Other” field; 1 of those suggested a calendar format would be helpful and another questioned why the “other field was unstructured.
 - No issues noted on the large breakpoint.
 
-![Radiolist with Other Option](/screenshots/round-5/12-radio-list-other.png)
+![Radio List with Other Option](/screenshots/round-5/12-radio-list-other.png)
 
 ### SCREEN DETAILS
 
