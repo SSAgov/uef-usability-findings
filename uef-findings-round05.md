@@ -129,9 +129,9 @@ Small Breakpoint
 - 5 participants did not expect to find the Sign Out in the Menu.
 - 1 participant wanted the menu to drop down from the top instead of from the right.
 
-![Closed Menu on Smartphone](/screenshots/round-5/01-menu-mobile1.png)
+![Closed Menu on Smartphone](/screenshots/round-5/01-menu-mobile-closed.png)
 
-![Open Menu on Smartphone](/screenshots/round-5/01-menu-mobile2.png)
+![Open Menu on Smartphone](/screenshots/round-5/01-menu-mobile-open.png)
 
 Large Breakpoint
 
@@ -247,7 +247,7 @@ Large Breakpoint
 - 1 participant wanted to put France in the State/Territory field and did not change the country to France.
 - 1 participant wanted to “invoke the keyboard when choosing a country.”
 
-![International Address U.S. Selected](/screenshots/round-5/09-intl-address-us.png)
+![International Address United States Selected](/screenshots/round-5/09-intl-address-us.png)
 
 ![International Address France Selected](/screenshots/round-5/09-intl-address-france.png)
 
@@ -265,13 +265,13 @@ Large Breakpoint
 - 1 participant asked why the bank country list was so much shorter than the previous country list.
 - 1 participant on the large breakpoint entered IBAN for the bank name.
 
-![International Bank Information](/screenshots/round-5/11-intl-bank-info-1.png)
+![International Bank Information IBAN](/screenshots/round-5/11-intl-bank-info-iban.png)
 
-![International Bank Information](/screenshots/round-5/11-intl-bank-info-2.png)
+![International Bank Information National Standard](/screenshots/round-5/11-intl-bank-info-standard.png)
 
-![International Bank Information](/screenshots/round-5/11-intl-bank-info-3.png)
+![International Bank Information New Zealand](/screenshots/round-5/11-intl-bank-info-nz.png)
 
-![International Bank Information](/screenshots/round-5/11-intl-bank-info-4.png)
+![International Bank Information Greece](/screenshots/round-5/11-intl-bank-info-gr.png)
 
 #### **Radio List (Other)**
 
@@ -293,7 +293,7 @@ Large Breakpoint
 
 ![Phone Number with Placeholder Text as Numbers](/screenshots/round-5/13-phone-placeholder-numbers.png)
 
-![Phone Number with Placeholder Text as X](/screenshots/round-5/13-phone-placeholder-x.png)
+![Phone Number with Placeholder Text as a series of X characters](/screenshots/round-5/13-phone-placeholder-x.png)
 
 #### **“Forgot?” Button**
 
