@@ -280,6 +280,8 @@ Large Breakpoint
 - 3 participants wondered what date format they should be entering into the “Other” field; 1 of those suggested a calendar format would be helpful and another questioned why the “other field was unstructured.
 - No issues noted on the large breakpoint.
 
+![Radiolist with Other Option](/screenshots/round-5/12-radio-list-other.png)
+
 ### SCREEN DETAILS
 
 #### **Placeholder Text**
@@ -288,6 +290,10 @@ Large Breakpoint
 - 2 other participants thought dashes were required.
 - The 2 participants to voice an opinion preferred an “x” to a “#” symbol for a placeholder
 - At least 2 participants expected the input to be formatted with dashes as the placeholder text had been.
+
+![Phone Number with Placeholder Text as Numbers](/screenshots/round-5/13-phone-placeholder-numbers.png)
+
+![Phone Number with Placeholder Text as X](/screenshots/round-5/13-phone-placeholder-x.png)
 
 #### **“Forgot?” Button**
 
@@ -302,10 +308,14 @@ Large Breakpoint
 - 1 participant expected to be able to reset her User ID, or password, or both.
 - 1 participant thought perhaps ‘Forgot?’ would ask for their SSN to be entered and an email address.
 
+![Sign In with Forgot Button](/screenshots/round-5/14-forgot-button.png)
+
 #### **Creating an Account**
 
 - 6 participants initially had difficulty creating an account and tried to do so in the Sign In area. Note: on smartphones the “Create Account” area was not visible without scrolling.
 - No issues reported on large breakpoint.
+
+![Sign In or Create an Account Screen](/screenshots/round-5/15-welcome.png)
 
 ## Next Steps
 
@@ -318,7 +328,11 @@ Based on this round of testing, the following patterns were found to be problema
 
 Container with Tabs Day 1 Design:
 
+![Container with Tabs on Day 1](/screenshots/round-5/16-tabs-mobile-day1.png)
+
 Container with Tabs Day 2 Design:
+
+![Container with Tabs on Day 2](/screenshots/round-5/16-tabs-mobile-day2.png)
 
 ### Additional Findings
 
