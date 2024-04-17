@@ -123,12 +123,17 @@ Large Breakpoint: 768 pixels and above (n=5)
 - One participant liked the fact that the words were cut off because they felt that and the arrow together pointed to something hidden.
 - No major issues on the large breakpoint.
 
+![Container with Tabs Slide Menu](/screenshots/round-7/01-container-tabs-slide.png)
+
 #### **Container with Tabs (More Menu)**
 
 - There were no major issues with the More Menu style Container with Tabs.
 - “It’s right there.” *(Participant quote referring to the more menu drop down)*
 - No major issues on the large breakpoint.
 - “It’s easy.” *(Participant quote referring to the overall tabbed container)*
+
+![Container with Tabs More Menu Closed](/screenshots/round-7/02-container-tabs-more-menu.png)
+![Container with Tabs More Menu Open](/screenshots/round-7/02-container-tabs-more-open.png)
 
 #### **Date Picker**
 
@@ -149,6 +154,10 @@ Large Breakpoint
 - The same four participants also understood that the light gray dates were unavailable because of the weekend.
 - One participant thought that the dark gray dates were days that were filled up by other users and the light gray days were open days that were available.
 
+> Screenshot does not show all the dates presented to the participants at the time of testing.
+
+![Date Picker](/screenshots/round-7/03-date-picker.png)
+
 #### **Navigation/Steps**
 
 - Three of the five smartphone participants did not notice the List icon to open the steps pattern.
@@ -157,6 +166,12 @@ Large Breakpoint
 - Two participants attempted to navigate to the previous page by using the “Previous” button. This could be due to the participants not noticing the list icon.
 - No major issues on the large breakpoint because the steps were not hidden in this view.
 - Two participants attempted to navigate to the previous page by using the “Previous” button.
+
+![Sub-Navigation on SmartPhone Closed](/screenshots/round-7/04-sub-nav-mobile-closed.png)
+
+![Sub-Navigation on SmartPhone Open](/screenshots/round-7/04-sub-nav-mobile-open.png)
+
+![Sub-Navigation on Desktop](/screenshots/round-7/04-sub-nav-desktop.png)
 
 #### **Review Summary**
 
@@ -174,6 +189,10 @@ Large Breakpoint
 - All participants thought the review summary looked good and understood that it was the information they previously entered.
 - One participant expected to edit the information directly on the summary page.
 
+![Review Summary on Desktop](/screenshots/round-7/05-review-summary.png)
+
+![Review Summary on SmartPhone](/screenshots/round-7/05-review-summary-mobile.png)
+
 #### **Document Viewer**
 
 This pattern was updated to include a “Back” button on the smaller screen size in replace of the traditional “X”.
@@ -183,13 +202,18 @@ This pattern was updated to include a “Back” button on the smaller screen si
 - One participant did not understand the wording of the Help link (i.e. Can’t print or Save).
 - One participant stated they would rather the close icon be a button that said “Return to Previous Page”
 
+![Document Viewer on Desktop](/screenshots/round-7/06-document-viewer-desktop.png)
+
+![Document Viewer on SmartPhone](/screenshots/round-7/06-document-viewer-mobile.png)
+
 ### Standard vs. Secondary Buttons
 
 Another item that was looked at during testing was the use of the Secondary button as a Standard button. The Mobile UEF team decided to test this to see if the current dark gray Standard button could be replaced with the white and blue Secondary button; leaving UEF with two types of buttons instead of three.
 Results showed that none of the participants had difficulty using the Secondary style button as a Standard button. Participants understood that the blue outline with blue text indicated that it was clickable.
 
-    Tested Secondary Button
-    Current Standard Button
+|Tested Secondary Button|Current Standard Button|
+|---|---|
+|![Secondary Button](/screenshots/round-7/07-secondary-button.png)|![Standard Button](/screenshots/round-7/07-standard-button.png)|
 
 ### Container with Tabs Preference
 
@@ -205,9 +229,13 @@ During the post-task questions, participants were asked to provide their prefere
 
 Participants stated that they liked the More Menu style container because the tabs were less obscured, easier to access, more obvious to the eye, or just overall liked the look of the tabs better. One of the two participants who did not like the More Menu stated it was because they were unsure if older people would notice it and therefore not click on it. The other felt that because they looked like tabs, they would go to a different page entirely.
 
+![Standard Button](/screenshots/round-7/08-container-tabs-more-cropped.png)
+
 #### **Slide Menu**
 
 One participant who preferred the Slide Menu because the arrow and the cut-off word together point to something hidden (indicate there is more content). The other participant stated it was because the tabs looked like links and would thereby keep him on the same page. Of the seven participants who did not like the Slide menu said it was because it was more work or they just liked the other design better for no particular reason.
+
+![Standard Button](/screenshots/round-7/08-container-tabs-slide-cropped.png)
 
 ### Missing Information Pages
 
@@ -224,11 +252,15 @@ When participants arrived on the error page, they told facilitators they would d
 - Select ‘Save & Exit’ and find the information (4/10)
 - Leave the page on the screen until the information is found (6/10)
 
+![Review Summary with No Answer Responses](/screenshots/round-7/09-review-summary-no-answer.png)
+
 ### File Link Download Expectation
 
 At the end of the scenarios, four participants were shown a page that had the five different file link types on it. These file types included PDF, Word, Excel, PowerPoint, and Zip (file archive). Participants were asked what they would expect to happen if they clicked on each of the different link types. All four participants expected for all five files types to open immediately in an application without downloading to the device.
 
 Prior to testing, we looked into what actually happens for each file type. Most devices will download all five file types directly to the device. However, the action for file types is dependent upon which operating system (iOS, Android, etc.) your device has, and is also affected by the applications found on the device. As new devices come to market with new operating systems and/or applications, these findings may change.
+
+![List of Links](/screenshots/round-7/10-links.png)
 
 ### Increased Font Size
 
