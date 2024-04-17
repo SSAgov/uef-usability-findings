@@ -6,8 +6,8 @@ The User Experience Framework (UEF) team at Social Security Administration (SSA)
 
 Patterns used in this round of testing included:
 
-| Layout  | Inputs  |   | Links  |   |
-|---|---|---|---|---|
+| Layout  | Inputs  |   | Links  |
+|---|---|---|---|
 | Public Template  | Address (International)  | Phone (International)  | Definition  |
 | Container (Basic)  | Check List | Radio List   | PDF  |
 |  Container (Summary) | Country  | Social Security Number (SSN) | Help  |

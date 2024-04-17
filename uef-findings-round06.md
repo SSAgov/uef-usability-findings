@@ -131,10 +131,14 @@ Large Breakpoint: 768 pixels and above (n=7)
 - 1 participant suggested the header and menu be “sticky” (i.e., stay on the screen as the user scrolls down) in order to easily access to the menu while scrolling the page.
 - There were no major issues with this pattern on the large breakpoint.
 
+![Closed Menu on Smartphone](/screenshots/round-6/01-menu-mobile.png)
+
 #### **Sign Out**
 
 - There were no issues with signing out or placement of this item in the Menu.
 - There were no issues with signing out on the large breakpoint.
+
+![Open Menu on Smartphone](/screenshots/round-6/02-sign-out-mobile.png)
 
 ### UEF PATTERNS
 
@@ -144,11 +148,18 @@ Large Breakpoint: 768 pixels and above (n=7)
 - 1 other participant stated that they liked the look of the Sign-In Container.
 - There were no major issues with this pattern on the large breakpoint.
 
+![Sign In or Create Container](/screenshots/round-6/03-sign-in-create-container.png)
+
 #### **Password (Create)**
 
 - Some participants did not notice the green check marks appearing as they met password requirement criteria; they seemed focused on password creation and entry.
 - Some participants did not notice the confirm field appear because the phone keyboard covers a large percentage of the screen while typing the password.
 - 1 participant stated that they liked the design for creating a password.
+
+![Password create default state](/screenshots/round-6/04-password-create-default.png)
+![Password create with errors](/screenshots/round-6/04-password-create-errors.png)
+
+![Password create success with confirm field](/screenshots/round-6/04-password-create-success.png)
 
 #### **Container with Tabs (Accordion)**
 
@@ -158,6 +169,8 @@ Large Breakpoint: 768 pixels and above (n=7)
 - 2 participants were unsure that they were on the home page while on a different tab in the accordion.
 - This style of container was not shown in the large breakpoint.
 
+![Container with Tabs Accordion](/screenshots/round-6/05-container-tabs-accordion.png)
+
 #### **Container with Tabs (More Menu)**
 
 - There were no major issues with this container style.
@@ -165,11 +178,15 @@ Large Breakpoint: 768 pixels and above (n=7)
 - 1 participant stated that they would prefer the drop down menu to be larger.
 - This style of container was not shown in the large breakpoint.
 
+![Container with Tabs More Menu](/screenshots/round-6/05-container-tabs-more-menu.png)
+
 #### **Container with Tabs (Slide Menu)**
 
 - All participants utilized the arrows with this container to advance it. No one attempted to swipe.
 - 1 participant had difficulty touching the menu items and thought the text was too small for people with larger fingers.
 - This style of container was not shown in the large breakpoint.
+
+![Container with Tabs Slide Menu](/screenshots/round-6/05-container-tabs-slider.png)
 
 #### **Document Viewer**
 
@@ -178,6 +195,8 @@ Large Breakpoint: 768 pixels and above (n=7)
 - 1 participant attempted to touch the gray area to close out of the viewer.
 - 1 participant stated that they would like the option to email the document.
 - Some older participants using the larger breakpoint were unclear of the concept of a lightbox and were not sure what it was for.
+
+![Document Viewer](/screenshots/round-6/06-document-viewer.png)
 
 #### **Archive File Type**
 
@@ -194,9 +213,13 @@ Large Breakpoint: 768 pixels and above (n=7)
 - 2 participants stated that it did not matter to them what the icon was, that it would just open anyway.
 - Participants using the large breakpoint had the same issues with this pattern as the Smartphone users.
 
+![Archive Link](/screenshots/round-6/07-archive-link.png)
+
 #### **Email Link**
 
 - There were no issues with this pattern on either breakpoint.
+
+![Email Link](/screenshots/round-6/08-email-link.png)
 
 #### **Error Summary Notice**
 
@@ -209,7 +232,11 @@ Large Breakpoint: 768 pixels and above (n=7)
 - One participant stated they wanted the error names in the Error Summary pattern to match the field label.
 - 2 iPad participants found using both the error summary and the field errors to be redundant.
 
+![Error Summary and Field](/screenshots/round-6/09-error-summary.png)
+
 #### **Date Picker**
+
+![Date picker closed](/screenshots/round-6/10-date-picker.png)
 
 Small Breakpoint
 
@@ -218,11 +245,19 @@ Small Breakpoint
 - 1 participant expected the gray dates (indicating unavailability) to be clickable.
 - The date picker pattern did not load properly in 2 of the 7smartphone sessions.
 
+> Screenshot does not show the dates that were rendered to the user at the time of the test.
+
+![Date picker open on SmartPhone](/screenshots/round-6/10-date-picker-mobile.png)
+
 Large Breakpoint
 
 - 1 participant mentioned they would like the option to type the date into the field as well.
 - 1 participant stated that the calendar icon was “too small for old people.”
 - This pattern did not load properly in 3 of the 5 iPad sessions.
+
+> Screenshot does not show the dates that were rendered to the user at the time of the test.
+
+![Date picker open on Desktop](/screenshots/round-6/10-date-picker-desktop.png)
 
 #### **Help Link**
 
@@ -236,6 +271,8 @@ Large Breakpoint
 - 3 participants stated that they thought the ‘?’ icon on its own was not meaningful enough and suggested to include the word ‘help’.
 - 2 participants stated they would have liked the ‘?’ icon to be bigger.
 
+![Help Link](/screenshots/round-6/11-help-link.png)
+
 #### **Informational Modal**
 
 Small Breakpoint
@@ -247,6 +284,8 @@ Large Breakpoint
 
 - There were no major issues with this pattern.
 - 1 participant mentioned that the ‘Close’ button should be bigger to make it easier to touch (iPad).
+
+![Informational modal showing password help](/screenshots/round-6/11-help-link-open.png)
 
 ## Container with Tabs Preference
 
@@ -281,6 +320,10 @@ Twelve participants were asked to provide their preference between two different
 The participants who liked the Neutral template preferred it because they thought the white stood out more on the gray and it was easier on the eye.
 
 The participants who preferred the OCOMM style template liked it because they liked the branding, found it to be more colorful, or liked the gray background better. In referring to the neutral template, one participant stated that he thought, “People tend to glaze over white and black.”
+
+![Neutral Style Template Header](/screenshots/round-6/12-neutral-header.png)
+
+![OCOMM Style Template Header](/screenshots/round-6/12-ocomm-header.png)
 
 ## Recommendations and Next Steps
 
