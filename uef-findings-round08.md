@@ -136,6 +136,12 @@ Large Breakpoint
 - One tablet participant did not meet all the password criteria but decided to move on anyway.
 - One tablet participant expected a password strength indicator.
 
+![Password Create Default View](/screenshots/round-8/01-password-create-default.png)
+![Password Create with Errors](/screenshots/round-8/01-password-create-errors.png)
+
+![Password Create Confirmation](/screenshots/round-8/01-password-create-confirm.png)
+![Password Create Confirm Success](/screenshots/round-8/01-password-create-success.png)
+
 #### **Date Calendar**
 
 This pattern included dates in one visible state: light gray (indicating unavailable dates)
@@ -149,6 +155,10 @@ Small Breakpoint
 - One smartphone participant thought the gray dates indicated either deadlines, the current date, or already selected dates.
 - Three participants did not know why the dates were gray.
 
+> Dates shown to participants at the time of testing are not visible in screenshot.
+
+![Date Picker on SmartPhone](/screenshots/round-8/02-date-picker-mobile.png)
+
 Large Breakpoint
 
 - There were no major functionality issues.
@@ -158,6 +168,10 @@ Large Breakpoint
 - One tablet participant expected the gray dates to indicate holidays, or otherwise unavailable dates.
 - Three participants thought the gray dates indicated either deadlines, the current date, or already selected dates.
 - One tablet participant did not know why the dates were gray.
+
+> Dates shown to participants at the time of testing are not visible in screenshot.
+
+![Date Picker on Desktop](/screenshots/round-8/02-date-picker-desktop.png)
 
 #### **Application Steps**
 
@@ -174,6 +188,10 @@ Small Breakpoint
   - Six participants used the Previous button
   - Three participants used the Application Steps
 
+![Sub-Navigation on SmartPhone Closed](/screenshots/round-8/03-sub-nav-mobile-closed.png)
+
+![Sub-Navigation on SmartPhone Open](/screenshots/round-8/03-sub-nav-mobile-open.png)
+
 Large Breakpoint
 
 - Five participants used the Application Steps pattern to navigate in the application without prompting.
@@ -187,9 +205,13 @@ Large Breakpoint
   - One participant used the Application Steps
 - One participant suggested making the Application Steps sticky while scrolling.
 
+![Sub-Navigation on Desktop](/screenshots/round-8/03-sub-nav-desktop.png)
+
 #### **Basic Table**
 
 This was the first test of a responsive table; two columns of data were “hidden” when viewed on smartphones and one column was hidden when viewed on tablets.
+
+![Basic Table Default](/screenshots/round-8/04-basic-table-default.png)
 
 Small Breakpoint
 
@@ -199,11 +221,15 @@ Small Breakpoint
 - One smartphone participant expected the entire cell containing the chevron to be clickable.
 - One smartphone participant suggested that the chevron should match that used in the Application Steps pattern.
 
+![Basic Table on SmartPhone](/screenshots/round-8/04-basic-table-phone.png)
+
 Large Breakpoint
 
 - Three participants did not realize that there was more information available in the table and did not click on the chevron to display the additional information.
 - One tablet participant expected the entire row to be clickable.
 - One tablet participant expected the entire cell containing the chevron to be clickable.
+
+![Basic Table on Large Tablet](/screenshots/round-8/04-basic-table-tablet.png)
 
 #### **Summary (Enhanced and Receipt)**
 
@@ -215,11 +241,15 @@ Small Breakpoint
 - Two participants wanted a Save button on the page they had just updated.
 - One participant wanted a confirmation message saying that the SSN had been updated after filling in that information per the scenario.
 
+![Summary Review on SmartPhone](/screenshots/round-8/05-summary-mobile.png)
+
 Large Breakpoint
 
 - One participant did not notice the “Not Answered” text, but understood its meaning after prompting.
 - Four of the five participants used the Edit button to go back to the Marriage Information page to add the Spouse’s SSN information.
 - One participant expected to be notified about the missing data after selecting the Primary button labeled “Return to Summary”.
+
+![Summary Review on Desktop](/screenshots/round-8/05-summary-desktop.png)
 
 #### **Document Viewer**
 
@@ -227,6 +257,8 @@ Large Breakpoint
 - One participant expected the Back button to be on the left side instead of the right.
 - One participant could not locate the email link and did not look in the “More” menu.
 - One participant thought the "x" close icon indicated a complete exit and wanted more instructions or a button to hide the Document Viewer.
+
+![Document Viewer with Summary Receipt](/screenshots/round-8/06-document-viewer-summary-receipt.png)
 
 #### **Footer (Links)**
 
@@ -237,11 +269,15 @@ Small Breakpoint
 - One participant did not understand the task, but was able to click on their chosen link after prompting.
 - One participant wanted to have a “zoom-in auto-function” behavior when touching the link.
 
+![Footer Links on SmartPhone](/screenshots/round-8/07-footer-links-mobile.png)
+
 Large Breakpoint
 
 - There were no major design issues.
 - Most participants were able to click on the link they wished to without issue.
 - One participant would have looked for SSA contact information by going instead to Done > My Account > Search rather than by clicking on a footer link.
+
+![Footer Links](/screenshots/round-8/07-footer-links.png)
 
 ## Recommendations and Next Steps
 
