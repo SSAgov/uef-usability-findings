@@ -172,6 +172,10 @@ Large Breakpoint
 - One participant was hesitant to click on the “Clear” button, thinking that it may wipe out all the information he just entered.
 - Four participants expected the calendar to disappear after selecting a date.
 
+> Dates shown to participants at the time of testing are not represented in the screenshot below.
+
+![Date Calendar](/screenshots/round-9/01-date-calendar.png)
+
 #### **Multi-Select Modal**
 
 Small Breakpoint
@@ -185,6 +189,10 @@ Large Breakpoint
 - One participant did not like the selected items behavior.
 - Two participants suggested increasing the size of the left and right navigation arrows.
 - Three participants did not notice the number change in the “Selected” button after saving.
+
+![Multi-Select Field](/screenshots/round-9/02-multi-select-field.png)
+
+![Multi-Select Modal](/screenshots/round-9/02-multi-select-modal.png)
 
 #### **Single-Row Action Table**
 
@@ -201,6 +209,8 @@ Small Breakpoint
   - One participant thought the chevron was a check mark and expected it to delete the record if they unchecked it.
   - One participant thought the chevron could be mistaken for the bullet point.
 
+![Single Row Action Table on SmartPhone](/screenshots/round-9/03-single-row-action-table-mobile.png)
+
 Large Breakpoint
 
 - None of the participants noticed the column sorting functionality.
@@ -208,6 +218,8 @@ Large Breakpoint
 - Chevron:
   - Four participants attempted to expand or collapse the table rows by clicking on the chevron.
   - One participant attempted to expand or collapse the table rows by clicking on the entire row.
+
+![Single Row Action Table on Desktop](/screenshots/round-9/03-single-row-action-table-desktop.png)
 
 #### **Pagination Table**
 
@@ -220,11 +232,15 @@ Small Breakpoint
   - One participant attempted to expand or collapse the table rows by clicking on both—chevron and the entire row.
   - One participant suggested adding a search feature to the table.
 
+![Pagination Table on SmartPhone](/screenshots/round-9/04-pagination-table-mobile.png)
+
 Large Breakpoint
 
 - There were no major functionality issues.
 - All participants attempted to expand or collapse the table rows by clicking on the chevron.
 - One participant expected to see a search feature to the table.
+
+![Pagination Table on Desktop](/screenshots/round-9/04-pagination-table-desktop.png)
 
 #### **Review Summary Error**
 
@@ -233,10 +249,14 @@ Small Breakpoint
 - There were no major functionality issues.
 - All participants understood the error and were successful in correcting it.
 
+![Review Summary with Error on SmartPhone](/screenshots/round-9/05-review-summary-error-mobile.png)
+
 Large Breakpoint
 
 - There were no major functionality issues.
 - All participants understood the error and were successful in correcting it.
+
+![Review Summary with Error on Desktop](/screenshots/round-9/05-review-summary-error-desktop.png)
 
 #### **Document Viewer**
 
@@ -249,6 +269,8 @@ Small Breakpoint
 - Seven participants used the “X” icon to exit the modal.
 - Three participants used the browser “Back” button to exit the modal.
 
+![Document Viewer on SmartPhone](/screenshots/round-9/06-document-viewer-mobile.png)
+
 Large Breakpoint
 
 - There were no major functionality issues.
@@ -256,6 +278,8 @@ Large Breakpoint
 - One participant stated that they liked being able to see the original screen in the background.
 - Four participants used the “X” icon to exit the modal.
 - One participant was afraid to click on “Submit” on the previous page and failed this task.
+
+![Document Viewer on Desktop](/screenshots/round-9/06-document-viewer-desktop.png)
 
 #### **Portal Navigation**
 
@@ -272,6 +296,8 @@ Large Breakpoint
 - All participants used the Portal Navigation pattern to navigate through the application without prompting.
 - One participant thought the menu items in the navigation looked gray and became confused as to why those items were clickable while the name, Terry Smith (next to the Sign Out link), was the same color but not clickable.
 - One participant clicked at the username (Terry Smith) to change login settings.
+
+![Document Viewer on Desktop](/screenshots/round-9/07-portal-navigation.png)
 
 #### **Username (Create)**
 
@@ -292,6 +318,10 @@ Large Breakpoint
 - One participant thought that the username requirements above the field are typical [standard].
 - All participants liked the use of the checkmarks for the requirements.
 - One participant would like more information about creating more secure names like numbers and symbols.
+
+![Username Default View](/screenshots/round-9/08-username-default.png)
+
+![Username Success View](/screenshots/round-9/08-username-success.png)
 
 ## Recommendations and Next Steps
 
