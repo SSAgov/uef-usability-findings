@@ -114,6 +114,8 @@ This section discusses the usability issues, as well as observations and partici
 2. There were no major issues with use or understandability.
 3. One participant wanted to see the options outside of the drop down. (This comment was towards the app as a whole rather than the pattern directly.)
 
+![Dropdown Button](./screenshots/round-12/01-dropdown-button.png)
+
 ### Loading Button
 
 1. All 15 participants understood what the loading button was doing.
@@ -127,6 +129,8 @@ This section discusses the usability issues, as well as observations and partici
 3. All users eventually selected the Help link after attempting to select the progress bar.
 4. One participant was surprised to see the help icon.
 
+![Progress](./screenshots/round-12/02-progress.png)
+
 ### Popover
 
 The popover was tested from the Progress pattern Help Link.
@@ -134,6 +138,12 @@ The popover was tested from the Progress pattern Help Link.
 1. Most participants did not expect a popover from the Help Link.
 2. A few participants had difficulty dismissing the popover, especially on smaller screens.
 3. Comments were specific to the design of the Progress (e.g. wanting to see an FAQ inside of the Help link instead of steps)
+
+> Popover appeared when participant selected the Help Link.
+>
+>Screenshot is showing other content on top of the popover and is not representative of what was shown to participants at the time.
+
+![Popover](./screenshots/round-12/03-popover.png)
 
 ### Full Page Calendar
 
@@ -150,11 +160,17 @@ The Full Page Calendar was tested using a tool called "FullCalendar.io" that was
 9. One participant felt that switching between the views was confusing and expected to see a drop down when selecting a date and time.
 10. One participant stated that they wanted to see the available appointments.
 
+![Full Page Calendar](./screenshots/round-12/04-full-calendar.png)
+
 ### Tree Structure
 
 1. Six participants selected the name instead of the arrow to expand the section
 2. Three participants did not use the tree structure to complete the tasks.
 3. Some participants were concerned about making edits to the tree structure and did not want to mess up the structure.
+
+*The example used in the testing prototype pattern was based on an HR organizational structure.*
+
+![Tree Structure](./screenshots/round-12/05-tree-structure.png)
 
 ### Summary
 
