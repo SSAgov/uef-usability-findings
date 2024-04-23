@@ -140,6 +140,8 @@ This section discusses the usability issues, as well as observations and partici
 
     7.4. One Galaxy Tab participant stated they would prefer it to be in the content so they do not miss the information.
 
+![Information Flag](./screenshots/round-11/01-flag.png)
+
 ### **Container (Show/Hide)**
 
 1. There were no major issues with this pattern.
@@ -147,10 +149,16 @@ This section discusses the usability issues, as well as observations and partici
 3. One Galaxy Tab participant noticed that the container could expand but preferred to leave it closed.
 4. One participant, who expanded the container, was unsure what the term ‘Less’ meant.
 
+![Container Show/Hide Closed](./screenshots/round-11/02-container-show-hide-closed.png)
+
+![Container Show/Hide Open](./screenshots/round-11/02-container-show-hide-open.png)
+
 ### **Critical Check Box**
 
 1. There were no major issues with this pattern.
 2. All 15 participants successfully selected the check box with no issues or prompting.
+
+![Critical Checkbox](./screenshots/round-11/03-critical-check-box.png)
 
 ### **Progress**
 
@@ -163,13 +171,16 @@ This section discusses the usability issues, as well as observations and partici
 7. One Galaxy S6 participant didn’t understand what their current step was.
 8. One Galaxy S6 participant expected the icon to provide a list of what documentation they needed to provide for the current step.
 9. One iPhone participant suggested making the Progress pattern a button so it’s more obvious.
-10. Participant comments:
 
-    10.1 “Why are they showing this?” (P11);
+**Participant comments:**
 
-    10.2. “Why is it clickable?” (P14);
+> “Why are they showing this?” (P11);
+>
+>“Why is it clickable?” (P14);
+>
+>“The ‘i’ [icon] might be clickable but it is very small and I didn’t notice it.” (P10)
 
-    10.3. “The ‘i’ [icon] might be clickable but it is very small and I didn’t notice it.” (P10)
+![Progress](./screenshots/round-11/04-progress.png)
 
 ### **Popover**
 
@@ -177,6 +188,11 @@ This section discusses the usability issues, as well as observations and partici
 2. Six participants (3 smartphone, 3 tablets) opened the Popover either on their own or with difficulty.
 3. Once open, five of the six participants closed the Popover with no issues.
 4. The sixth participant was able to close the Popover but had difficulty.
+
+> Popover appeared when participant selected the Progress bar.
+>Screenshot is showing other content on top of the popover and is not representative of what was shown to participants at the time.
+
+![Popover](./screenshots/round-11/05-popover.png)
 
 ### **Time**
 
@@ -186,7 +202,9 @@ This section discusses the usability issues, as well as observations and partici
 4. Twelve participants (7 smartphone, 5 tablets) stated that they expected the AM/PM field to start on AM because “gotta set one or the other” (P4).
 5. Two participants (1 smartphone, 1 tablet) expected to see military time.
 
-## **Time Zone**
+![Time](./screenshots/round-11/06-time.png)
+
+### **Time Zone**
 
 1. There were no major issues with this pattern.
 2. Fourteen participants (9 smartphone, 5 tablets) successfully selected a time zone.
@@ -197,7 +215,9 @@ This section discusses the usability issues, as well as observations and partici
 7. One only expected Hawaii as an additional item to the list.
 8. One Galaxy S6 participant didn’t expect to be asked for a time zone.
 
-## **File Upload**
+![Time Zone](./screenshots/round-11/07-time-zone.png)
+
+### **File Upload**
 
 1. Adding a File
 
@@ -221,18 +241,23 @@ This section discusses the usability issues, as well as observations and partici
 
     2.4 One iPad participant commented, “I can’t tell if the files have been uploaded.” (P13)
 
-## **Dismissible Compact Notice**
+![File Upload](./screenshots/round-11/08-file-upload.png)
+
+### **Dismissible Compact Notice**
 
 1. Nine out of 15 participants (5 smartphone, 4 tablets) did not close the Compact Notice.
 2. Participants were frustrated and annoyed after seeing this notice.
 3. Three participants stated they would not move on after seeing this notice because they did not know what to do next.
-4. Participant Comments:
 
-    4.1 “What do I do now?” (P3, P5)
+**Participant Comments:**
 
-    4.2 “I’m done, can’t do anything else” (P9)
+>“What do I do now?” (P3, P5)
+>
+>“I’m done, can’t do anything else” (P9)
 
-## **Danger Notice**
+![Dismissible Compact Notice](./screenshots/round-11/09-dismissible-compact-notice.png)
+
+### **Danger Notice**
 
 1. All 15 participants noticed or commented on the Danger Notice.
 2. Participants were frustrated and annoyed after seeing this notice.
@@ -241,7 +266,9 @@ This section discusses the usability issues, as well as observations and partici
 5. Two participants (1 smartphone, 1 tablet) wanted to save what they currently have and return another time.
 6. Several participants could not tell the difference between the Danger Notice and the Warning Dismissible Compact Notice. (finding based on facilitator feedback in debrief)
 
-## **Badge**
+![Danger Notice](./screenshots/round-11/10-danger-notice.png)
+
+### **Badge**
 
 1. There were no major issues with this pattern.
 2. Ten participants (5 smartphone, 5 tablets) noticed or commented on the Badge.
@@ -249,21 +276,9 @@ This section discusses the usability issues, as well as observations and partici
 4. Two smartphone participants thought the badge looked like a button.
 5. One iPad participant thought it had an interesting color scheme.
 
-## **Date and Time**
+![Badge](./screenshots/round-11/11-badge.png)
 
-1. There were no major issues with the functionality of this pattern
-2. All 15 participants were able to successfully add a date and time
-3. Five participants (3 smartphone, 2 tablets) thought it was easy to add a date and time
-4. The icon used in the prototype was not understandable to participants
-5. Participants were asked their preference on four different icons for this pattern. Results of this evaluation are below
-
-**Participant Comments:**
-
-> "That moved really fast"
-
-### Icon Comments
-
-## Date and Time
+### Date and Time
 
 1. There were no major issues with the functionality of this pattern.
 2. All 15 participants were able to successfully add a date and time.
@@ -289,7 +304,15 @@ Icon comments:
 >
 >“Either a battery about to explode or a calendar with a clock.” (P9)
 
-## **Tree Structure**
+![Date and Time](./screenshots/round-11/12-date-time-field.png)
+
+> Dates shown to participants at the time of testing are not represented in the screenshot below.
+
+![Date and Time](./screenshots/round-11/12-date-time-calendar.png)
+
+![Date and Time](./screenshots/round-11/12-date-time-time.png)
+
+### **Tree Structure**
 
 Two of the 15 participants did not complete this task due to lack of time.
 
@@ -325,15 +348,18 @@ Two of the 15 participants did not complete this task due to lack of time.
 
 *The example used in the testing prototype pattern was based on an HR organizational structure.*
 
+![Tree Structure](./screenshots/round-11/13-tree-structure.png)
+
 **Date and Time Icon Preference:**
 
 At the end of the evaluation, the participants were shown four variations of the Date and Time pattern with different icons in each (pictured below). The facilitator then asked the participant their preference and why.
 
-(A) (B) (C) (D)
+![Date and time Icons](./screenshots/round-11/14-icon-preference.png)
 
 Results show a strong preference for both ‘A’ and ‘D’. Six participants preferred ‘D’ and five preferred ‘A’.
 
 The reasons participants preferred ‘D’ was because: 1) the icon tells them they are making an appointment and 2) it clearly shows both a calendar and clock. While participants who preferred ‘A’ said it was because it is simple and looks like a calendar.
+
 One participant said that an icon was not necessary but if there must be an icon they would prefer a clock.
 No participants preferred icon ‘B’; and three preferred icon ‘C’ because it was bigger and looked like a clock.
 

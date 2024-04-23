@@ -136,6 +136,10 @@ Small Breakpoint
   - Two participants stated that today’s date should standout more and suggested either a thicker black border or using a different color.
     - One participant stated that the ‘boxes’ (re: the dates on the calendar) were too small.
 
+> Dates shown to participants at the time of testing are not represented in the screenshot below.
+
+![Date Picker on SmartPhone](./screenshots/round-10/01-date-calendar-mobile.png)
+
 Large Breakpoint
 
 - There were no major issues with this pattern.
@@ -143,6 +147,10 @@ Large Breakpoint
 - All seven participants removed the date by selecting the X within the field.
   - Date with Black Border:
   - Three participants understood that the black border represented today’s date.
+
+> Dates shown to participants at the time of testing are not represented in the screenshot below.
+
+![Date Picker on Desktop](./screenshots/round-10/01-date-calendar.png)
 
 #### **Multi-Select Modal**
 
@@ -154,6 +162,8 @@ Small Breakpoint
   - ‘Selected’ Button
   - One participant stated that they would rather see the items listed out on the page after selecting ‘Save.’
 
+![Multi-Select Modal on SmartPhone](./screenshots/round-10/02-multi-select-modal-mobile.png)
+
 Large Breakpoint
 
 - There were no major issues with this pattern.
@@ -162,6 +172,12 @@ Large Breakpoint
   - ‘Selected’ Button
   - One participant stated that they would rather see the items listed out on the page after selecting ‘Save.’
     - One participant didn’t notice the left and right pagination arrows and suggested adding a next button within the footer of the modal.
+
+![Multi-Select Field Default](./screenshots/round-10/02-multi-select-field.png)
+
+![Multi-Select Modal on Desktop](./screenshots/round-10/02-multi-select-modal.png)
+
+![Multi-Select Field with Items Selected](./screenshots/round-10/02-multi-select-field-selected.png)
 
 #### **Multi-Row Action Table**
 
@@ -187,7 +203,21 @@ Small Breakpoint
           - Deleting a Record:
           - There were no major issues with deleting a record.
 
+![Multi-Row Action Table](./screenshots/round-10/03-multi-row-action-table-mobile.png)
+
 Large Breakpoint
+
+- Adding a Record:
+  - There were no issues with adding a record to the table.
+  - Four participants thought that the plus icon would provide an ‘add’ or ‘edit’ functionality.
+- Expanding a Record:
+  - One participant attempted to open the record by selecting the entire row but when they noticed it didn’t do anything, they used the plus icon.
+  - One participant attempted to expand the record by swiping across it.
+  - One participant attempted to expand the record by doing a long press.
+- Deleting a Record:
+  - There were no major issues with deleting a record.
+
+![Multi-Row Action Table](./screenshots/round-10/03-multi-row-action-table.png)
 
 #### **Other Findings**
 
@@ -197,6 +227,8 @@ Small Breakpoint
   - Two participants suggested using row dividers or highlighting every other row on the Summary page to make the information stand out more.
 
 Large Breakpoint
+
+- Two participants suggested using row dividers or highlighting every other row on the Summary page to make the information stand out more.
 
 ## Recommendations and Next Steps
 
