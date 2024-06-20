@@ -122,6 +122,8 @@ This section discusses the usability issues, as well as observations and partici
 2. All participants found the loading button to be useful.
 3. One participant thought it was calculating.
 
+![Loading Button](./screenshots/round-12/06-loading-button.png)
+
 ### Progress
 
 1. Thirteen of 15 participants were confused by the Progress pattern.
