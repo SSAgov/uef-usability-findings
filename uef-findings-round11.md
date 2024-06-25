@@ -26,7 +26,7 @@ Testing was conducted on the following types of devices: Smartphones (iOS and An
 
 The prototype was designed to incorporate two separate scenarios. The first scenario walked the participant through the modified iClaim application testing all patterns listed above except one. The Tree Structure pattern was shown in the second scenario within the modified HR Portal application due to its internal application origin.
 
-## Viewport Sizes'
+## Viewport Sizes
 
 As with prior responsive prototypes used in Mobile UEF testing, this prototype was designed with a single breakpoint.
 
