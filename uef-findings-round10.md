@@ -129,12 +129,12 @@ Small Breakpoint
 
 - There were no major issues with this pattern.
 - Clear Date:
-- Seven participants removed the date by selecting the X within the field.
-- One participant didn’t notice the X and was looking for a way to manually remove the date with the cursor.
-  - Date with Black Border:
+  - Seven participants removed the date by selecting the X within the field.
+  - One participant didn’t notice the X and was looking for a way to manually remove the date with the cursor.
+- Date with Black Border:
   - Seven participants understood that the black border represented today’s date.
   - Two participants stated that today’s date should standout more and suggested either a thicker black border or using a different color.
-    - One participant stated that the ‘boxes’ (re: the dates on the calendar) were too small.
+- One participant stated that the ‘boxes’ (re: the dates on the calendar) were too small.
 
 > Dates shown to participants at the time of testing are not represented in the screenshot below.
 
@@ -144,8 +144,8 @@ Large Breakpoint
 
 - There were no major issues with this pattern.
 - Clear Date:
-- All seven participants removed the date by selecting the X within the field.
-  - Date with Black Border:
+  - All seven participants removed the date by selecting the X within the field.
+- Date with Black Border:
   - Three participants understood that the black border represented today’s date.
 
 > Dates shown to participants at the time of testing are not represented in the screenshot below.
@@ -158,8 +158,8 @@ Small Breakpoint
 
 - There were no major issues with this pattern.
 - ‘Save’ Button
-- Two participants focused on selecting items within the list and did not notice the ‘Save’ button change. However, they did notice the update once they were ready to select the button.
-  - ‘Selected’ Button
+  - Two participants focused on selecting items within the list and did not notice the ‘Save’ button change. However, they did notice the update once they were ready to select the button.
+- ‘Selected’ Button
   - One participant stated that they would rather see the items listed out on the page after selecting ‘Save.’
 
 ![Multi-Select Modal on SmartPhone](./screenshots/round-10/02-multi-select-modal-mobile.png)
@@ -168,10 +168,10 @@ Large Breakpoint
 
 - There were no major issues with this pattern.
 - ‘Save’ Button
-- Two participants focused on selecting items within the list and did not notice the ‘Save’ button change. However, they did notice the update once they were ready to select the button.
-  - ‘Selected’ Button
+  - Two participants focused on selecting items within the list and did not notice the ‘Save’ button change. However, they did notice the update once they were ready to select the button.
+- ‘Selected’ Button
   - One participant stated that they would rather see the items listed out on the page after selecting ‘Save.’
-    - One participant didn’t notice the left and right pagination arrows and suggested adding a next button within the footer of the modal.
+- One participant didn’t notice the left and right pagination arrows and suggested adding a next button within the footer of the modal.
 
 ![Multi-Select Field Default](./screenshots/round-10/02-multi-select-field.png)
 
@@ -184,24 +184,15 @@ Large Breakpoint
 Small Breakpoint
 
 - Adding a Record:
-- There were no issues with adding a record to the table.
-- Two participants thought that the plus icon would provide an ‘add’ or ‘edit’ functionality.
-  - Expanding a Record:
+  - There were no issues with adding a record to the table.
+  - Two participants thought that the plus icon would provide an ‘add’ or ‘edit’ functionality.
+- Expanding a Record:
   - Four participants attempted to open the record by selecting the entire row but when they noticed it didn’t do anything, they used the plus icon.
   - One participant attempted to expand the record by swiping across it.
   - One participant expected the row to highlight when they expanded the record.
-    - Deleting a Record:
-    - There were no major issues with deleting a record.
-    - One participant suggested only showing the action buttons after making a selection.
-      - Adding a Record:
-      - There were no issues with adding a record to the table.
-      - Four participants thought that the plus icon would provide an ‘add’ or ‘edit’ functionality.
-        - Expanding a Record:
-        - One participant attempted to open the record by selecting the entire row but when they noticed it didn’t do anything, they used the plus icon.
-        - One participant attempted to expand the record by swiping across it.
-        - One participant attempted to expand the record by doing a long press.
-          - Deleting a Record:
-          - There were no major issues with deleting a record.
+- Deleting a Record:
+  - There were no major issues with deleting a record.
+  - One participant suggested only showing the action buttons after making a selection.
 
 ![Multi-Row Action Table](./screenshots/round-10/03-multi-row-action-table-mobile.png)
 
@@ -224,7 +215,6 @@ Large Breakpoint
 Small Breakpoint
 
 - One participant suggested using state abbreviations in the State drop down list.
-  - Two participants suggested using row dividers or highlighting every other row on the Summary page to make the information stand out more.
 
 Large Breakpoint
 
