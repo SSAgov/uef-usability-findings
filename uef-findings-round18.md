@@ -92,47 +92,66 @@ Participant 6 did not complete any of the questions.
 
 This section discusses the usability issues, as well as observations and participant comments. The patterns tested within this evaluation group the findings.
 
-#### **PRO Template Collapsible Panels**
+#### **Pro Template Collapsible Panels**
 
 1. Four out of six participants had no issues with this pattern.
-2. One participant was looking for an X icon. Also mentioned that the tooltip was very helpful.
-3. P2 failed and was looking for an X icon
-4. P3 passed but suggested we make the tooltip language editable
+2. Two participants expected to use an X icon to close the panels.
+3. One participant mentioned that the tooltip was very helpful.
 
-#### **PRO Template Drop Down (Mega Menu) Tab**
+![Pro Template Collapsible Panels Open](./screenshots/round-18/01-pro-template-panels-open.png)
 
-1. Three out of six participants had no issues (3 participants had difficulty).
-2. Context was an issue for participants who had difficulty locating the menu
-3. P3 mentioned the split functionality was confusing.
-4. P4 participant may not have been given enough time to discover the tab on her own
-5. P5 mentioned that the colors blended too much. She wanted to see bigger headers.
+![Pro Template Collapsible Panels One Open](./screenshots/round-18/01-pro-template-panels-one-open.png)
+
+![Pro Template Collapsible Panels Closed](./screenshots/round-18/01-pro-template-panels-closed.png)
+
+#### **Pro Template Drop Down (Mega Menu) Tab**
+
+1. Three out of six participants had no issues.
+2. Participants had difficulty locating the menu (*Context issue for prototype. Not an issue with the pattern*)
+3. One participant thought the split functionality of the tab was confusing.
+4. One participant felt that the colors blended too much and wanted to see bigger headers.
+
+![Pro Template Mega Menu](./screenshots/round-18/02-pro-template-mega-menu.png)
 
 #### **Advanced Table Filtering**
 
-1. 3 out of 6 participants had no issues
-2. P1 could not discover the table filter, confused by settings thought it was something he would find in settings. Didn't like funnel icon.
-3. P2 could not find the the advanced filter. Exhausted all of his options before actually selecting settings.
-4. P2 liked the funnel icon.
+1. Three out of six participants had no issues
+2. One participant had difficulty discovering the table filter and was confused by the settings thought it was something he would find in settings. Didn't like funnel icon.
+3. One participant could not find the the advanced filter and exhausted all options before eventually selecting settings.
+4. One participant stated that they liked the funnel icon.
+
+![Table Advanced Filter Closed](./screenshots/round-18/03-table-filter-closed.png)
+
+![Table Advanced Filter Open](./screenshots/round-18/03-table-filter-open.png)
 
 #### **Table Column Selector**
 
-1. 6 out of 6 participants had no issues.
-2. P1 nice feature, liked the icon
-3. P5 was looking for instruction tool tip
+1. There were no major issues with this pattern.
+2. One participant stated this was a nice feature and liked the icon.
+3. One participant expected an instruction tooltip.
+
+![Table Column Selector](./screenshots/round-18/04-table-column-selector.png)
 
 #### **Date and Time**
 
-1. 6/6 participants had no issues
-2. P1 liked the pattern but didn’t expect date and time to be combined.
-3. P2 said “this is good”
-4. P5 liked the pattern but suggested moving the save button up to the right.
+1. There were no major issues with this pattern.
+2. One participant didn’t expect date and time to be combined.
+3. One participant suggested moving the save button up to the right.
+
+![Date and Time Calendar](./screenshots/round-18/05-date-time-calendar.png)
+
+![Date and Time List](./screenshots/round-18/05-date-time-list.png)
+
+![Date and Time Field](./screenshots/round-18/05-date-time-field.png)
 
 #### **Mega-Select Radio**
 
-1. 6/6 participants had no issues
-2. P1 didn't want to go to the next page for more information
-3. P3 felt it was more natural to scroll down rather than scroll to the right.
-4. P5 liked the search capability
+1. There were no major issues with this pattern.
+2. One participant did not go to the next page for more information.
+3. One participant felt it was more natural to scroll down rather than scroll to the right.
+4. One participant stated that they liked the search functionality.
+
+![Mega Select Radio List](./screenshots/round-18/06-mega-select-radio.png)
 
 #### **Summary (Show/Hide)**
 
