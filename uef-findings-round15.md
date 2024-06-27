@@ -105,7 +105,7 @@ Scale of 1-5, with 1 = lowest and 5=highest Overall
 |8. How difficult or easy was it to find information you needed?|4|
 |9. How long would it take you to learn to use this website?|5|
 |10. How confident did you feel using this application?|4.6|
-|11. Average User Satisfaction Score|3.8|
+|**11. Average User Satisfaction Score**|**3.8**|
 
 ### Qualitative Assessment
 
@@ -119,7 +119,6 @@ This section discusses the usability issues, as well as observations and partici
 
 **Participant comments:**
 
-Quotes:
 > “Thought the eye was a security feature. It turns green if your password is correct and red if incorrect. Similar to Verizon passphrase.”
 >
 > “Not what I expected. This is cool. Very creative. Never would have thought of this.”
@@ -132,6 +131,9 @@ Quotes:
 >
 > “Excited to see this.”
 
+![Password Show/Hide Hidden](./screenshots/round-15/01-password-hidden.png)
+![Password Show/Hide Shown](./screenshots/round-15/01-password-shown.png)
+
 #### **Text Area (Rich Text)**
 
 1. There were no major issues with the functionality of the pattern.
@@ -143,8 +145,6 @@ Quotes:
   4.3. Auto numbering (word count)
 
 **Participant comments:**
-
-Quotes:
 
 > “Editor was difficult at first, slowly got it.”
 >
@@ -160,17 +160,19 @@ Quotes:
 >
 > “Does the job, but want more features.”
 
+![Text Area with Rich Text](./screenshots/round-15/02-rich-text-area.png)
+
 #### **Badges (Dismissible)**
 
 1. There were no major issues with this pattern.
 
 **Participant comments:**
 
-Quotes:
-
 > 2.1 “Straightforward”
 >
 > 2.2 “Very Easy”
+
+![Dismissible Badge](./screenshots/round-15/03-dismissible-badge.png)
 
 #### **Drop Down Button (Split)**
 
@@ -178,8 +180,6 @@ Quotes:
 2. The cognitive connection between the Send and Save actions were too far making it difficult for participants to discover the Save by clicking the arrow.
 
 **Participant comments:**
-
-Quotes:
 
 > “Easy to use. Didn’t have to do it like outlook, don’t have to navigate to it.”
 >
@@ -191,13 +191,13 @@ Quotes:
 >
 > “Didn’t expect to see this here.”
 
+![Split Drop Down Button](./screenshots/round-15/04-drop-down-button-split.png)
+
 #### **Sub-Navigation (Nested Groups)**
 
 1. There were no major issues with this pattern.
 
 **Participant comments:**
-
-Quotes:
 
 > “Color coding really helps.”
 >
@@ -213,6 +213,8 @@ Quotes:
 >
 > “Simple. Liked the layout a lot.”
 
+![Sub-Navigation with Nested Groups](./screenshots/round-15/05-sub-navigation-nested-groups.png)
+
 #### **Table (Column Selector)**
 
 1. Most participants had no issues with this pattern.
@@ -221,8 +223,6 @@ Quotes:
 4. Most users liked the icon in conjunction with the text.
 
 **Participant comments:**
-
-Quotes:
 
 > “I see ‘columns,’ I bet there are other options there. Something to do with columns adding or removing.”
 >
@@ -238,6 +238,8 @@ Quotes:
 >
 > “Initially thought it was an excel type drag and hide on right click. Settings, but it didn’t stand out and catch the eye.”
 
+![Table Column Selector](./screenshots/round-15/06-table-column-selector.png)
+
 #### **Table (Column Reordering)**
 
 1. There were no major issues with this pattern.
@@ -249,8 +251,6 @@ Quotes:
   4.3 One participant thought it was a fun icon that “helps you lighten the mood so you don’t feel as bad when you don’t get it.”
 
 **Participant comments:**
-
-Quotes:
 
 > “Feels good!”
 >
@@ -270,6 +270,8 @@ Quotes:
 >
 > “It didn’t look like it will [reorder]. Column separation was not there. Move pointer over it, and the [cursor] didn’t change.”
 
+![Table Column Reorder](./screenshots/round-15/07-table-column-reorder.png)
+
 #### **Table (Search)**
 
 1. There were no major issues with this pattern.
@@ -277,8 +279,6 @@ Quotes:
 3. Some participants clicked on the magnifying glass expecting to see results that way.
 
 **Participant comments:**
-
-Quotes:
 
 > “That’s nice. Absolutely, very useful.”
 >
@@ -294,14 +294,14 @@ Quotes:
 >
 > “Easy. ‘X’ to clear the keyboard.” Liked the “x”
 
+![Table Column Search](./screenshots/round-15/07-table-column-search.png)
+
 #### **Back to Top**
 
 1. None of the participants noticed the pattern without prompting. When prompted, they understood and liked the feature.
 2. Two participants wanted a “go to bottom” icon at the top.
 
 **Participant comments:**
-
-Quotes:
 
 > “Very good, didn’t have to scroll.”
 >
@@ -315,14 +315,14 @@ Quotes:
 >
 > “Use this a lot on shopping sites.”
 
+![Back to Top](./screenshots/round-15/08-back-to-top.png)
+
 #### **PRO Template Collapsible Panels**
 
 1. Most participants needed prompting to locate the icons to collapse the panels.
 2. One participant thought the arrows meant to go backwards and forwards in the navigation. When prompted, they preferred to see an “x” instead of the arrows.
 
 **Participant comments:**
-
-Quotes:
 
 > “Wouldn’t have gotten that. Arrows usually means next, like next page. Didn’t think it was to get rid of notifications.”
 >
@@ -342,6 +342,12 @@ Quotes:
 >
 > “Really easy. Used to see this type of action to hide things. Like Eclipse, AOL, ALM.”
 
+![Pro Template Collapsible Panels Open](./screenshots/round-15/09-pro-template-panels-open.png)
+
+![Pro Template Collapsible Panels One Closed](./screenshots/round-15/09-pro-template-panels-one-closed.png)
+
+![Pro Template Collapsible Panels Closed](./screenshots/round-15/09-pro-template-panels-closed.png)
+
 #### **PRO Template Drop Down Tab**
 
 1. Most participants were willing to click the down arrow for more options since they had already used the Drop Down (Split) button on a previous page.
@@ -351,13 +357,13 @@ Quotes:
 
 **Participant comments:**
 
-Quotes:
-
 > “Pretty straight forward. It was really cool. You’re paying attention.”
 >
 > “Took a guess what that was. Didn’t know what’s there until I clicked it.
 >
 > “Oh! Okay, didn’t notice the button had two actions. So used to using only the drop down button, I didn’t see it.”
+
+![Pro Template Dropdown Tab](./screenshots/round-15/10-pro-template-dropdown-tab.png)
 
 ## Recommendations and Next Steps
 
