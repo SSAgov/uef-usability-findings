@@ -104,6 +104,8 @@ This section discusses the usability issues, as well as observations and partici
 2. Participants commented that they liked the consistency between mobile and desktop versions.
 3. Participant did not even notice the tab to access the mega menu.
 
+![Pro Template Responsive Tabs](./screenshots/round-17/01-pro-template-responsive-tabs.png)
+
 #### **PRO Template Desktop Mega Menu Tab**
 
 1. Three out of six participants had no issues.
@@ -113,12 +115,6 @@ This section discusses the usability issues, as well as observations and partici
 5. One participant stated that they liked the consistency of the mobile and desktop designs.
 
 ![Pro Template Mega Menu](./screenshots/round-17/02-pro-template-mega-menu.png)
-
-#### **Pro Template Mobile Mega Menu**
-
-1. Five out of six participants had no issues.
-2. Participants commented that they liked the consistency between mobile and desktop versions
-3. Participant did not even notice the tab to access the mega menu
 
 #### **PRO Template Collapsible Panels**
 
