@@ -317,6 +317,8 @@ This section discusses the usability issues, as well as observations and partici
 
 ![Back to Top](./screenshots/round-15/08-back-to-top.png)
 
+> The design of Back to Top shown to participants at the time of testing is not fully represented in the screenshot above.
+
 #### **PRO Template Collapsible Panels**
 
 1. Most participants needed prompting to locate the icons to collapse the panels.
