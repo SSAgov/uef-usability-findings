@@ -98,13 +98,14 @@ This section discusses the usability issues, as well as observations and partici
 
 **Participant comments:**
 
-Quotes:
-
 > “Words would be more helpful, rather than an icon.”
 >
 > “Nice to have.”
 >
 > “You should use biometrics (fingerprints) instead of password.”
+
+![Password Show/Hide Hidden](./screenshots/round-16/01-password-hidden.png)
+![Password Show/Hide Shown](./screenshots/round-16/01-password-shown.png)
 
 #### **Download Link**
 
@@ -114,9 +115,9 @@ Quotes:
 
 **Participant comments:**
 
-Quotes:
-
 > “Where is this being downloaded to on my phone?”
+
+![Download Link](./screenshots/round-16/02-download-link.png)
 
 #### **Amount/Percent Toggle**
 
@@ -125,16 +126,21 @@ Quotes:
 
 **Participant comments:**
 
-Quotes:
-
 > “Make the percent sign bolder”
 >
 > “Adding instruction text dollar/percent would make it easier to understand.”
+
+![Amount/Percent Toggle Selected Amount](./screenshots/round-16/03-amount-percent-toggle-amount.png)
+![Amount/Percent Toggle Selected Percent](./screenshots/round-16/03-amount-percent-toggle-percent.png)
 
 #### **Template (More Menu)**
 
 1. This pattern was only applicable to desktop and tablet participants.
 2. Three out of three participants had no issues with this pattern.
+
+![Template More Menu](./screenshots/round-16/04-template-more-menu.png)
+
+![Template More Menu Open](./screenshots/round-16/04-template-more-menu-open.png)
 
 #### **SSN (Show/Hide)**
 
@@ -151,18 +157,19 @@ Quotes:
 2. Two out of twelve participants did not know that both sides of the button were clickable.
 3. One participant mentioned that the arrow icon on the button was a good indicator that there were more options.
 
+![Drop Down Button Split](./screenshots/round-16/06-drop-down-button-split.png)
+
 #### **Radio List (Series)**
 
 1. Nine out of twelve participants had no issues with this pattern.
 2. The amount of radio lists on the page confused some participants.
 3. Participants did not like the fact that they had to scroll so much to get to the bottom of the page.
-4. Some participant quotes include:
 
 **Participant comments:**
 
-General:
-
 > “This page is really long!”
+
+![Radio List Series](./screenshots/round-16/07-radio-list-series.png)
 
 #### **Back to Top**
 
