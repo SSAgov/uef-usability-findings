@@ -120,7 +120,7 @@ This section discusses the usability issues, as well as observations and partici
 
 1. Four out of six participants had no issues.
 2. One participant stated that the panel controls were "pretty visible, standard, and more prominent than systems used before."
-3. One participant had difficult because they were looking for an X icon to collapse the panel.
+3. One participant had difficulty because they were looking for an X icon to collapse the panel.
 4. One participant had difficulty locating the panel controls.
 5. One participant stated that the interaction was fast and clean.
 
@@ -144,17 +144,17 @@ This section discusses the usability issues, as well as observations and partici
 2. One participant expected to drag a column out of the table to remove. They stated that the button didn't make sense and suggested using the word "Customize".
 3. Two participants clicked outside the menu to dismiss.
 4. One participant wanted a reset view option.
-5. One participant did not complete the task due to time constrictions.
+5. One participant did not complete the task due to time constraints.
 
 ![Table Column Selector](./screenshots/round-17/05-table-column-selector.png)
 
 #### **Back to Top (A/B Gray and Orange Colors)**
 
-1. 2/6 participants had no issues
+1. Two out of six participants had no issues
 2. Most participants did not use Back to Top because they preferred to scroll.
 3. Two participants did not notice it but understood the purpose.
 
-**Color Preference:** 4/6 participants preferred the orange color. One participant did mention that the orange color was attention grabbing but would be annoying after a while and therefore would prefer the gray color.
+**Color Preference:** Four out of six participants preferred the orange color. One participant did mention that the orange color was attention grabbing but would be annoying after a while and therefore would prefer the gray color.
 
 ![Back to Top Gray](./screenshots/round-17/06-back-to-top-gray.png)
 ![Back to Top Orange](./screenshots/round-17/06-back-to-top-orange.png)
