@@ -92,58 +92,86 @@ Participant 6 did not complete any of the questions.
 
 This section discusses the usability issues, as well as observations and participant comments. The patterns tested within this evaluation group the findings.
 
-#### **PRO Template Collapsible Panels**
+#### **Pro Template Collapsible Panels**
 
-1. Four out of six participants had no issues with this pattern.
-2. One participant was looking for an X icon. Also mentioned that the tooltip was very helpful.
-3. P2 failed and was looking for an X icon
-4. P3 passed but suggested we make the tooltip language editable
+1. Four out of six participants had no issues.
+2. Two participants expected to use an X icon to close the panels.
+3. One participant mentioned that the tooltip was very helpful.
 
-#### **PRO Template Drop Down (Mega Menu) Tab**
+![Pro Template Collapsible Panels Open](./screenshots/round-18/01-pro-template-panels-open.png)
 
-1. Three out of six participants had no issues (3 participants had difficulty).
-2. Context was an issue for participants who had difficulty locating the menu
-3. P3 mentioned the split functionality was confusing.
-4. P4 participant may not have been given enough time to discover the tab on her own
-5. P5 mentioned that the colors blended too much. She wanted to see bigger headers.
+![Pro Template Collapsible Panels One Open](./screenshots/round-18/01-pro-template-panels-one-open.png)
+
+![Pro Template Collapsible Panels Closed](./screenshots/round-18/01-pro-template-panels-closed.png)
+
+#### **Pro Template Drop Down (Mega Menu) Tab**
+
+1. Three out of six participants had no issues.
+2. Participants had difficulty locating the menu (*Context issue for prototype. Not an issue with the pattern*)
+3. One participant thought the split functionality of the tab was confusing.
+4. One participant felt that the colors blended too much and wanted to see bigger headers.
+
+![Pro Template Mega Menu](./screenshots/round-18/02-pro-template-mega-menu.png)
 
 #### **Advanced Table Filtering**
 
-1. 3 out of 6 participants had no issues
-2. P1 could not discover the table filter, confused by settings thought it was something he would find in settings. Didn't like funnel icon.
-3. P2 could not find the the advanced filter. Exhausted all of his options before actually selecting settings.
-4. P2 liked the funnel icon.
+1. Three out of six participants had no issues
+2. Two participant expected to find the filter within "Settings".
+3. One participant did not like the funnel icon.
+4. One participant stated that they liked the funnel icon.
+
+![Table Advanced Filter Closed](./screenshots/round-18/03-table-filter-closed.png)
+
+![Table Advanced Filter Open](./screenshots/round-18/03-table-filter-open.png)
 
 #### **Table Column Selector**
 
-1. 6 out of 6 participants had no issues.
-2. P1 nice feature, liked the icon
-3. P5 was looking for instruction tool tip
+1. There were no major issues with this pattern.
+2. One participant stated this was a nice feature and liked the icon.
+3. One participant expected an instruction tooltip.
+
+![Table Column Selector](./screenshots/round-18/04-table-column-selector.png)
 
 #### **Date and Time**
 
-1. 6/6 participants had no issues
-2. P1 liked the pattern but didn’t expect date and time to be combined.
-3. P2 said “this is good”
-4. P5 liked the pattern but suggested moving the save button up to the right.
+1. There were no major issues with this pattern.
+2. One participant did not expect date and time to be combined.
+3. One participant suggested moving the save button up to the right.
+
+![Date and Time Calendar](./screenshots/round-18/05-date-time-calendar.png)
+
+![Date and Time List](./screenshots/round-18/05-date-time-list.png)
+
+![Date and Time Field](./screenshots/round-18/05-date-time-field.png)
 
 #### **Mega-Select Radio**
 
-1. 6/6 participants had no issues
-2. P1 didn't want to go to the next page for more information
-3. P3 felt it was more natural to scroll down rather than scroll to the right.
-4. P5 liked the search capability
+1. There were no major issues with this pattern.
+2. Two participants preferred to scroll rather than paginate through the options.
+3. One participant stated that they liked the search functionality.
+
+![Mega Select Radio List](./screenshots/round-18/06-mega-select-radio.png)
 
 #### **Summary (Show/Hide)**
 
 1. There were no major issues with this pattern.
-2. P1, P2, P3 and P5 would have liked to see the information expanded by default
+2. Four participants stated that they would have preferred to see the information expanded by default.
+
+![Summary Show Hide Closed](./screenshots/round-18/07-summary-accordion-closed.png)
+
+![Summary Show Hide Open](./screenshots/round-18/07-summary-accordion-open.png)
 
 #### **Mega Menu (Mobile)**
 
-1. 5 out of 6 participants had no issues ( 1participant had difficulty)
-2. P2 scrolled down first before selecting Menu
-3. P6 had no issues but did mention that there were too many layers to get to the page.
+1. Five out of six participants had no issues.
+2. One participant scrolled down before selecting the Menu.
+3. One participant thought there were too many clicks to navigate to the page in the task.
+
+![Mobile Mega Menu Default](./screenshots/round-18/08-mobile-mega-menu-1.png)
+
+![Mobile Mega Menu One Level](./screenshots/round-18/08-mobile-mega-menu-2.png)
+
+![Mobile Mega Menu Two Levels](./screenshots/round-18/08-mobile-mega-menu-3.png)
 
 ## Recommendations and Next Steps
 
@@ -152,17 +180,16 @@ Based on this round of testing, the following patterns were found to be problema
 - Mega-Select (Radio)
 - Advanced Table Filtering
 - Date and Time
-- Table (Column Selector)
 
 Pattern recommendations based on the findings are below.
 
 | Pattern  | Recommendation  |  Rationale  |
 |---|---|---|
-|PRO Template Responsive Navigation|Keep design as tested.||
-|PRO Template Drop Down (Mega Menu) Tab|Keep design as tested.||
-|PRO Template Collapsible Panels|Keep design as tested.||
-|Date and Time|More research needed as to whether or not we need this as a pattern.||
-|Mega-Select (Radio)|Update prototype with vertical scrolling||
-|Advanced Table Filtering|Update Prototype without settings.||
-|Table (Column Selector)|Keep design as tested.|Will wait to develop until Advanced Table Filtering has been figured out.|
-|Summary (Show/Hide)|Keep design as tested.||
+|PRO Template Responsive Navigation|Keep design as tested.|No major issues.|
+|PRO Template Drop Down (Mega Menu) Tab|Keep design as tested.|No major issues.|
+|PRO Template Collapsible Panels|Keep design as tested.|No major issues.|
+|Date and Time|Conduct additional research to determine if this pattern is needed in the design system.|No issues with testing. However, the pattern is not used often and may not be needed.|
+|Mega-Select (Radio)|Add vertical scrolling.|Participants preferred to scroll down rather than paginate.|
+|Advanced Table Filtering|Remove the Column Settings and re-test on its own.|Some participants expected to locate the filter inside the Column Settings.|
+|Table (Column Selector)|Keep design as tested.|No major issues.|
+|Summary (Show/Hide)|Keep design as tested.|No major issues.|
