@@ -167,11 +167,11 @@ This section discusses the usability issues, as well as observations and partici
 2. One participant scrolled down before selecting the Menu.
 3. One participant thought there were too many clicks to navigate to the page in the task.
 
-![Mobile Mega Menu](./screenshots/round-18/08-mobile-mega-menu-1.png)
+![Mobile Mega Menu Default](./screenshots/round-18/08-mobile-mega-menu-1.png)
 
-![Mobile Mega Menu](./screenshots/round-18/08-mobile-mega-menu-2.png)
+![Mobile Mega Menu One Level](./screenshots/round-18/08-mobile-mega-menu-2.png)
 
-![Mobile Mega Menu](./screenshots/round-18/08-mobile-mega-menu-3.png)
+![Mobile Mega Menu Two Levels](./screenshots/round-18/08-mobile-mega-menu-3.png)
 
 ## Recommendations and Next Steps
 
