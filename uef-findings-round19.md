@@ -98,7 +98,7 @@ This section discusses the usability issues, as well as observations and partici
 
 ![Pro Template Theme Purple](./screenshots/round-19/01-theme-purple.png)
 
-#### **Badge (w/Border) (Readability)**
+#### **Badge with Border**
 
 1. 17 out of 18 (94%) participants had no issues.
 2. Most participants noticed the badge right away and stated that it stood out to them.
