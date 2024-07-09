@@ -11,7 +11,7 @@ The Design System Team (DST) conducted usability testing to evaluate specific pa
 - Lists (Static)
 - Lists (Drag and Drop)
 - Container (Drag and Drop Rows)
-- Negative numbers
+- Negative Number Formatting
 - Re-Entry Number
 - Table Sorting
 - Dark Mode
@@ -27,6 +27,8 @@ After the evaluations were complete, the team analyzed the results including:
 
 - Facilitator Guide metrics on ease of use;
 - Participant issues or comments regarding specific UEF patterns or screen details.
+
+![Unmoderated Testing Platform for Round 20](./screenshots/round-20/01-unmoderated-testing-platform.png)
 
 ## Participant Information
 
@@ -57,15 +59,15 @@ Design System Team established metrics for this usability test as follows. Metri
 
 | Metric  | Target  | Actual  |
 |---|---|---|
-|Text Box with Autocomplete|>=5|6|
-|Smart Search|>=5|5|
-|Static Lists|>=5|6|
+|Text Box with Autocomplete|>=5|6.00|
+|Smart Search|>=5|5.00|
+|Static Lists|>=5|6.00|
 |Drag and Drop Lists|>=5|4.19|
-|Drag and Drop Container Rows|>=5|4.5|
-|Negative Numbers Display|>=5|6.8|
+|Drag and Drop Container Rows|>=5|4.50|
+|Negative Numbers Display|>=5|6.80|
 |Re-Entry Number (Redesign)|>=5|6.48|
 |Table Sorting|>=5|6.16|
-|Dark Mode|>=5|5.7|
+|Dark Mode|>=5|5.70|
 |Page Template Header|>=5|6.17|
 
 ### Qualitative Assessment
@@ -76,14 +78,12 @@ This section discusses the usability issues, as well as participant comments. Th
 
 Application teams expressed the need for user-aided search in the form of an autocomplete feature. When the user begins to type, a menu appears with suggested search keywords or phrases.
 
-Average SUS  score of 6 out of 7
+Average SUS score of 6 out of 7
 
 - This pattern tested well with no major issues.
 - There were some prototype issues that caused confusion such as not allowing the user to press enter to populate the selected search term into the text box. Since this is the way it will work when implemented we do not see this as an issue to move forward with the component.
 
 **Participant comments:**
-
-General:
 
 > One participant commented “I was not able to press Enter and have the selection show up in the list. The droplist continued to be displayed even when I pressed the Enter key, which was counter-intuitive. I was expecting the Enter key to select from the options.”
 >
@@ -94,6 +94,8 @@ General:
 >Overall participants liked the auto complete search feature.
 >
 > One participant said “I think that the ability to search for what you are looking and also select it from a list of accepted options makes it easier to find what you need without having all of the details.”
+
+![Textbox with Autocomplete](./screenshots/round-20/02-textbox-autocomplete.png)
 
 #### **Smart Search**
 
@@ -121,6 +123,8 @@ Option 2 preference:
 >
 > “It’s easier to be able to enter whatever search criteria you want in the search field.”
 
+![Smart Search Options](./screenshots/round-20/03-smart-search.png)
+
 #### **Static Lists**
 
 Static lists would fulfill a need to support horizontal support for lists as well as table of contents type listing. Evaluators were tasked with identifying their current step in a process using the static list component and all responses received were correct.
@@ -131,13 +135,13 @@ Average SUS rating  of 6 out of 7.
 
 **Participant comments:**
 
-General:
-
 > “Identifying the step that has been completed is easy because of the checkmarks for steps 1 and 2. Next step # 3 would be the next process step to be completed, which is Application in Process.”
 >
 > “Because the first two steps in the application process are shown as completed with tick mark in green color”
 >
 > “It would be more visually consistent if the shape of the unchecked and checked boxes were the same.”
+
+![Static List](./screenshots/round-20/04-static-list.png)
 
 #### **Drag and Drop Lists**
 
@@ -152,8 +156,6 @@ Average SUS rating of 4.19 out of 7.
 - Participants were asked what they thought of the component and below are their responses:
 
 **Participant comments:**
-
-General:
 
 > “I was not 100% sure that Susan would land where I expected when I let go of the mouse button. I would have liked to see Susan's box move with my mouse, while being dragged.
 >
@@ -181,6 +183,8 @@ Icon meaning (The icon was meant to indicate that the list was drag able)"
 >
 > Select?
 
+![Drag and Drop List](./screenshots/round-20/05-list-reorder.png)
+
 #### **Drag and Drop Container Rows**
 
 Similar to the drag and drop lists, the drag and drop container rows would allow users to move rows within a container.
@@ -194,8 +198,6 @@ Average SUS rating of 4.5 out of 7
 
 **Participant comments:**
 
-General:
-
 > “I didn't know "where" to drop the container... the other containers didn't provide any visual clues about "where" the box would be dropped... before or after.”
 >
 > “The feedback I expect when I'm moving something is, I see a "ghost" of the item in the destination. IN this case, the "move" icon didn't represent moving. And highlighting Lisa Crow is not immediately obvious that I'm dropping Amanda Smith on top of her.”
@@ -208,6 +210,8 @@ General:
 >
 > “Detailed instructions are missing”
 
+![Drag and Drop Container Rows](./screenshots/round-20/06-container-drag-drop.png)
+
 #### **Negative Numbers Display**
 
 The goal of this component is to create a standard for displaying negative numbers for ease of readability.
@@ -218,8 +222,6 @@ Average SUS rating of 6.8 out of 7
 
 **Participant comments:**
 
-General:
-
 > “The negative sign and the red color”
 >
 > “The red number and the "-"”
@@ -227,6 +229,8 @@ General:
 > “It's red and has a minus in front of it.”
 >
 > “-$98,456 - Because it has minus sign in front of the amount”
+
+![Table with Negative Number Formatting](./screenshots/round-20/07-negative-numbers.png)
 
 #### **Re-Entry Number (Re-design)**
 
@@ -238,8 +242,6 @@ Average SUS rating of 6.48 out of 7
 - The goal of this redesign was to display the Re-Entry number within the label rather than in the middle of the notice, however participants had additional comments in regards to the overall pattern:
 
 **Participant comments:**
-
-General:
 
 > “Consider making the re-entry number a different color in both the heading and body, this may help accentuate its importance”
 >
@@ -262,6 +264,8 @@ General:
 > “The locations of the numbers are okay. It is at the top and then again near the center, and more prominent.”
 >
 > “It should not say "restart an incomplete application", it should say "resume" or "pick up where you left off".”
+
+![Re-Entry Number Notice](./screenshots/round-20/08-reentry-number.png)
 
 #### **Table Sorting**
 
@@ -306,6 +310,8 @@ Sort Icon:
 >
 > “I dont see an icon until I click the heading in chrome, so I feel it is a bit broken. Why: Hard to tell that the column is sortable in chrome.”
 
+![Table with Sorting](./screenshots/round-20/09-table-sorting.png)
+
 #### **Dark Mode**
 
 The Design System Team will be adding the dark mode feature to reduce the light emitted by device screens while maintaining the minimum color contrast ratios required for readability. The placement of the dark mode toggle control was the focus of the testing.
@@ -340,6 +346,10 @@ General:
 >
 > “I was a little confused initially since Dark Mode was typed on the tab I was looking at. It could seem like the page was already in Dark Mode. Also, I selected Appearance from the menu since there were no other menu options. However, I'm not sure that would have been my first choice if there were other menu options. It might be better to use the same word such as "appearance" or "mode."
 
+![Appearance Preferences Light Mode](./screenshots/round-20/10-light-mode.png)
+
+![Appearance Preferences Dark Mode](./screenshots/round-20/10-dark-mode.png)
+
 #### **Page Template Header**
 
 Internal applications have a need to show links in the header of the page, outside the existing global options menu.
@@ -353,8 +363,6 @@ Average SUS rating of 6.17 out of 7
 - Participants were asked how they felt about the placement of the Page Template Header and below are their responses
 
 **Participant comments:**
-
-General:
 
 > “It was good. That is a predictable place to put About Us”
 >
@@ -370,6 +378,8 @@ General:
 >
 > “I think it is fine there. It makes sense to put it as a link at the top of the page so if I need more information I can click it.”
 
+![Template Header Links](./screenshots/round-20/11-template-header-links.png)
+
 ## Recommendations and Next Steps
 
 Based on this round of testing, the following patterns were found to be problematic for enough participants to necessitate retesting or design refinements:
@@ -381,13 +391,13 @@ Pattern recommendations based on the findings are below.
 
 | Pattern  | Recommendation  |  Rationale  |
 |---|---|---|
-|Text Box with Autocomplete|Keep design as tested.||
-|Smart Search|Keep design as tested.||
-|Static Lists|Keep design as tested.||
-|Drag and Drop Lists|Use a different prototyping method (Adobe XD or HTML) to better illustrate motion design.|The axure prototype did not reflect motion animations for an adequate test.|
-|Drag and Drop Container Rows|Use a different prototyping method (Adobe XD or HTML) to better illustrate motion design.|The axure prototype did not reflect motion animations for an adequate test.|
-|Negative Numbers Display|Keep design as tested.||
-|Re-Entry number (Redesign)|Keep design as tested.||
-|Table Sorting|Keep design as tested.||
-|Dark Mode Toggle|Keep design as tested.||
-|Page Template Header|Keep design as tested.||
+|Text Box with Autocomplete|Keep design as tested.|No major issues with this pattern.|
+|Smart Search|Keep design as tested.|No major issues with this pattern.|
+|Static Lists|Keep design as tested.|No major issues with this pattern.|
+|Drag and Drop Lists|Use a different prototyping method (Adobe XD or HTML) to better illustrate motion design.|The Axure prototype did not reflect motion animations for an adequate test.|
+|Drag and Drop Container Rows|Use a different prototyping method (Adobe XD or HTML) to better illustrate motion design.|The Axure prototype did not reflect motion animations for an adequate test.|
+|Negative Numbers Display|Keep design as tested.|No major issues with this pattern.|
+|Re-Entry number (Redesign)|Keep design as tested.|No major issues with this pattern.|
+|Table Sorting|Keep design as tested.|No major issues with this pattern.|
+|Dark Mode Toggle|Keep design as tested.|No major issues with this pattern.|
+|Page Template Header|Keep design as tested.|No major issues with this pattern.|
