@@ -78,44 +78,23 @@ This section discusses the usability issues, as well as observations and partici
 #### **Pro Template Themes**
 
 1. All participants successfully understood the different themes.
-2. Six participants preferred the default theme.
-3. Six participants preferred the blue theme.
-4. Three participants preferred the purple theme.
+2. Most participants preferred the default theme because it was more professional and easier on the eyes.
+3. Some participants felt the Blue color is "not bad" could also be used professionally.
+4. Most participants felt the red and purple colors were not professional for work applications as red is the color for urgency or errors.
 
-> Three participants did not respond to the preference data question.
-
-**Theme Specific Quotes:**
-
-Default
-
-- It’s the standard. Nothing wrong with it, just boring.
-- SSA work-life
-- Most consistent to SSA colors
+|Theme|Preferred|
+|--|--|
+|Default|7|
+|Blue|5|
+|Red|1|
+|Purple|2|
+|No Response|3|
 
 ![Pro Template Theme Default](./screenshots/round-19/01-theme-default.png)
 
-Blue
-
-- Blue is not bad
-- Standard
-- Hard to see that tabs are clickable
-
 ![Pro Template Theme Blue](./screenshots/round-19/01-theme-blue.png)
 
-Red
-
-- Not a fan of the red. It’s more of a burnt orangey red.
-- A little pep
-- Indicates warning and errors, hard to see that tabs are clickable
-
 ![Pro Template Theme Red](./screenshots/round-19/01-theme-red.png)
-
-Purple
-
-- Nice cool color. An eye grabber.
-- For people who want to switch it up a bit.
-- Not preferable for SSA pages, more for Power Point docs
-- It makes me feel happy
 
 ![Pro Template Theme Purple](./screenshots/round-19/01-theme-purple.png)
 
@@ -144,7 +123,7 @@ Two participants commented that they would expect to enlarge or zoom in on the i
 1. 16 out of 18 (89%) participants used the scroll bar to view all options.
 2. 17 out of 18 (94%) participants successfully saved the selections.
 3. Four participants did not see the scroll bar initially.
-4. Two participants suggested to have all the options listed out instead of  scrolling.
+4. Two participants suggested to have all the options listed out instead of scrolling.
 5. Three participants wanted to see the options alphabetized.
 6. Three participants suggested adding an "Other" option to include something not listed.
 7. Two participants tried to use the search feature. *This was not functional in the prototype*
@@ -192,15 +171,12 @@ Two participants commented that they would expect to enlarge or zoom in on the i
 
 #### **Table (Advanced Filter)**
 
-1. 14 out of 18 participants successfully located the filter.
-2. Two participants on mobile devices did not expect the filter to be located under "Settings".
-
-
-2. P1: I’m familiar with filters so that’s where I went first. Unsure what column settings and chart view mean.
-3. P2: The filter icon is familiar, they have seen it before.
-
-5. P9: I don’t think it was difficult, I prefer the term “Search” instead of filtering. I was able to filter on any of these fields.
-6. P11: I like how it was presented.
+1. 14 out of 18 (77%) participants successfully located the filter.
+2. Six participants used the Search feature before trying the Filter tab.
+3. Three participants on mobile devices did not expect the filter to be located under "Settings".
+4. One participant missed the add-on features (i.e Filter, Settings, Chart View) entirely and preferred to interact directly with the table.
+5. Many participants were confused by the additional tabs with Filter (i.e. Settings and Chart View) and did not understand the difference.
+6. When asked about the icon, responses were mixed between it is unfamiliar and does not mean anything to them versus they had seen it before and was a common filter icon.
 
 ![Table Advanced Filter](./screenshots/round-19/07-table-filter.png)
 
@@ -208,29 +184,25 @@ Two participants commented that they would expect to enlarge or zoom in on the i
 
 #### **Table (Column Settings)(Reorder, Show/Hide)**
 
-1. 12/13 Desktop participants had no issues (1 participant had difficulty).
-2. P1: pretty straightforward, easy.  Green is good.
-3. P3: She removed columns quickly, no problems. Instructional icons next to the action they control instead. Click on X and apply to table. Green means go or money. It’s good. Safe color in this scenario.
-4. P7:  would prefer to reorder columns in the actual table.
-5. P9: Removing the columns was easy. The green color stands out.
-6. P13:  It was simple.
-7. P15:  liked it self-explanatory. Thought green color was ugly, not favorite shade of green.
-8. P16:  Click and drag fine
-9. P17:  Very easy
+>*Three participants did not complete this task due to time constraints.*
+>
+>*Participants had previously seen Column Settings during the Advanced Filter task, which may have skewed data.*
+
+1. 12 out of 15 (80%) participants had no issues.
+2. Three participants on mobile devices had issues locating the Column Settings because they did not expect to find it under a button called "Settings".
+3. Most participants stated that it was easy to add and remove columns from the table.
+4. One participant mentioned that the button label was not clear and suggested renaming it to "Modify Columns or Select Columns".
+5. Some participants, whom commented on the color, mentioned that they did not expect green for the columns since green is typically associated with success or completion.
 
 ![Table Column Settings](./screenshots/round-19/08-table-column-settings.png)
 
 #### **Table (Chart View)**
 
-1. 17/18  participants had no issues ( 1participant had difficulty)
-2. P3 : Wants another color. Blue is already in the heading and used in links. Maybe purple or gray or something. Do another color (we already have blue in the top), Easy to read.
-3. P7:  Looks fancy
-4. P10: Liked to enlarge the bar chart
-5. P12: Charts are very useful for comparing
-6. P15: Easy to read. Understands what it is saying.
-7. P16: Prefers the bar graph and it’s fine.
-8. P17: Easy to understand. Would click on the bar, line or pie. All of these graphics provide me with info. After expanding the Bar chart, even better.
-9. P18: He likes the chart easier to read, pie charts are hard to read but bar charts are good.
+1. 17 out of 18 (94%) participants had no issues
+2. Seven participants mentioned that the charts were easy to understand and helpful.
+3. Five participants felt confused due to the context of the chart because the example provided didn't match the table data and were unsure what the numbers represented.
+4. Three participants on mobile successfully expanded the chart to view full screen. One mobile participant wanted to pinch to zoom.
+5. Two participants did not like that the only color used was blue and wanted the charts to be more colorful.
 
 ![Table Chart View](./screenshots/round-19/09-table-chart-view.png)
 
@@ -238,42 +210,58 @@ Two participants commented that they would expect to enlarge or zoom in on the i
 
 #### **Button (Toggle) – A/B/C Testing**
 
-1. 18/18 participants had no issues
-2. P1:  1 - I like it because it fills the whole area and it’s got the little indicator. No confusion, very clear.
-3. P2:  The arrow implies the selection was made. The third option does this well, too. But I like the 1st option better.
-4. P3: Likes both 1 and 2, lens towards 2. Likes the indicator arrow, but is too small.
-5. P4: Looks more completed to me (number 1 has arrow that barely visible) 1 and 2
-6. P8: I liked 1 or 2. The triangle in number 1 makes me think something is wrong with my screen. Definitely prefer number 2
+1. There were no major issues with this task.
+
+|Design|Preferred|Comments|
+|--|--|--|
+|Design 1|8|Indicator icon is too small|
+|Design 2|4|Participants that picked #2 liked both 1 and 2 but thought the indicator was too small on #1|
+|Design 3|0||
+|Design 4|0||
+|Design 5|4|Participants felt this design was simple|
+|Design 6|1|Participant felt this design was more modern|
 
 ![Toggle A/B/C Test](./screenshots/round-19/10-toggle.png)
 
-#### Template Dark Mode
+#### Template Dark Mode and Toggle
 
+1. Ten participants did not expect to find the dark mode toggle controls under the username and wanted the control to be on a separate Preferences or Settings page.
+2. Five participants stated that they did not like the dark mode because it was too dark and difficult for them to read.
+3. Four participants stated that they liked the dark mode and was easy to read.
+4. One mobile participant expected the controls to be at the system level for Android and not on the page at all.
+5. One participant stated that it was easy to toggle between the settings.
+6. One participant felt the black color needed to be darker and the white colors needed to be brighter.
 
+![Dark Mode Toggle on Desktop](./screenshots/round-19/11-dark-mode-toggle.png)
 
+![Dark Mode on Desktop](./screenshots/round-19/11-dark-mode.png)
+
+![Dark Mode Toggle on Mobile](./screenshots/round-19/11-dark-mode-toggle-mobile.png)
+
+![Dark Mode on Desktop](./screenshots/round-19/11-dark-mode-mobile.png)
 
 ## Recommendations and Next Steps
 
 Based on this round of testing, the following patterns were found to be problematic for enough participants to necessitate retesting or design refinements:
 
-- Pro Template Header Links
 - Mega-Select (Radio)
-- Mega-Select (Check)
-- Table ( Advanced Filter, Column Selector, Chart View)
+- Table (Advanced Filter)
+- Table (Column Selector)
+- Table (Chart View)
 
 Pattern recommendations based on the findings are below.
 
 | Pattern  | Recommendation  |  Rationale  |
 |---|---|---|
-|PRO Template Themes|Keep design as tested.|Keep Default, Blue and Purple Themes. Make CSS variable for all colors.|
-|PRO Template Header Links|More research needed.||
-|Badge (W/Border) Readability|Keep design as tested.||
-|Show/Hide with Badge|Keep design as tested.||
-|Figure|Keep design as tested.||
-|Summary (Show/Hide) Mobile|Keep design as tested.||
-|Mega Select (Radio)|More research is needed.||
-|Mega Select (Check)|More research is needed.||
-|Button (Toggle)|Keep Toggle button with arrow indicators.||
-|Table (Advanced Filtering)|More research is needed.||
-|Table (Column Settings)|More research is needed.||
-|Table (Chart View)|More research is needed.||
+|Pro Template Themes|- Move forward with all tested theme colors. <br/> - Create CSS variables for all colors.|No major issues with this pattern.|
+|Badge with Border|Continue with design as tested.|No major issues with this pattern.|
+|Show/Hide with Badge|Continue with design as tested.|No major issues with this pattern.|
+|Figure|Continue with design as tested.|No major issues with this pattern.|
+|Summary (Show/Hide) Mobile|Continue with design as tested.|No major issues with this pattern.|
+|Mega Select (Radio)|Continue with design as tested.|Most participants had no issues. Those who had difficulty wanted to use the Search feature.|
+|Mega Select (Check)|Conduct additional research with different use case.|Participants did not expect a Radio List within a modal and preferred a drop list.|
+|Button (Toggle)|Continue with the Toggle design that includes the arrow indicator.|Participants felt that the indicator helped show which item was selected.|
+|Table (Advanced Filtering)|Redesign mobile interface.|Participants on mobile devices did not expect a filter to be under the "Settings" button.|
+|Table (Column Settings)|Redesign mobile interface.|Participants on mobile devices did not expect a filter to be under the "Settings" button.|
+|Table (Chart View)|- Re-test with different context. <br/> - Redesign mobile interface.|- Participants didn't understand the context of the charts. <br/> - Participants had difficulty understanding the different settings on mobile view.|
+|Template Dark Mode|- Re-test with dark mode designs.<br/>- Place dark mode toggle within a separate preferences page.|- Some participants had difficulty with the colors used in this example.<br/>- Participants expected the toggle to be in a separate Preferences or Settings page.|
