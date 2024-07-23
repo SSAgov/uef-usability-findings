@@ -19,9 +19,7 @@ The Design System Team (DST) conducted usability testing to evaluate specific pa
 
 ## Methodology
 
-DST conducted usability testing using an unmoderated testing platform on  February 22- March 5, 2020. The evaluations took place remotely via a new unmoderated testing platform. All evaluations were conducted on desktop computers.
-
-Unmoderated testing was the method of choice during round 20. There were a total of 31 participants. The prototype was built with HTML and Axure. The team gathered Satisfaction User Scores (SUS) for each component in order to gather usability feedback. On a scale of 1-7, 1 being very difficult and 7 being very easy, users were asked to rate the use of each component. The Design System Team aims for a Satisfaction User Score greater than or equal to five for each component in addition to examining user comments.
+Due to working remotely, the Design System Team (DST) conducted unmoderated usability testing on February 22- March 5, 2020. The evaluations took place remotely via an unmoderated testing platform created by the team for this purpose. Twenty-six participants were recruited internally due to limited access to the public during the pandemic. An email was sent out to employees in the SSA Office of Systems asking for remote participation in the study. Participants were provided a link to the testing platform where they were asked to read and sign an informed consent form. In the task area of the prototype, participants were walked through a series of tasks. Each task page provided instructions, what was being tested, and a feedback form that collected Satisfaction User Scores (SUS). The scores were rated on a scale of 1-7, 1 being very difficult and 7 being very easy. The Design System Team aims for a Satisfaction User Score greater than or equal to five for each component in addition to examining user comments. All evaluations were conducted on desktop computers. Tasks that required feedback for mobile used an emulator.
 
 After the evaluations were complete, the team analyzed the results including:
 
@@ -34,28 +32,32 @@ After the evaluations were complete, the team analyzed the results including:
 
 31 participants were involved in the evaluations. Their demographic information was as follows:
 
-- 48% Female and 52% Male
-- 61% of evaluators were in the range of 36-55 years old.
-- 65% IT Specialists, 6% software developers, 6% IT Managers, 3% program analysts and 3% branch chiefs
-- 15 out of 31 participants have a 4 year degree
-- 11 out of 31 participants have a graduate degree
-- 2 out of 31 participants have a 2 year degree
-- 1 out of 31 participants have a high school diploma
-- 2 out of 31 participants have some college education
-
-## Lessons Learned
-
-DST discussed lessons learned from this round of testing. Those included the following:
-
-- Unmoderated Remote Testing does provide useful, valid feedback, and provides us with another tool in our testing arsenal.
-- Reduce the duration of unmoderated testing from two to one week. Since 90% of our test participant results were received within the first 3 days of the start of testing, this will allow us to reduce the cycle time of the entire test process (design, implementation, active testing, analysis, recommendations).
-- Since we developed a prototype of an unmoderated testing platform, rebuild the unmoderated testing platform into a more permanent solution that is easier to reuse and extend.
-- Due to our lack of a secure (HTTPS) web server to deliver the testing, we had to rely on our existing UXG Web Server and thus could not automate the aggregation and analysis of participant results using Microsoft Forms. Move all future unmoderated testing to our new, secure (HTTPS) UXG Web Application Server and integrate Microsoft Forms into the testing platform.
-- For future test designs, everything that looks interactive to a participant should provide some type of feedback, even if just to say what operation would be performed in a real app.
+- 16 Female and 15 Male
+- Age ranges include:
+  - 19 were 36-55 years old
+  - 7 were 55-72 years old
+  - 4 were 26-35 years old
+- Education experience includes:
+  - 11 participants have a graduate degree
+  - 15 participants have a 4 year degree
+  - 2 participants have a 2 year degree
+  - 2 participants have some college education
+  - 1 participants have a high school diploma
+- Participants own the following SmartPhones:
+  - 21 own an Android
+  - 10 own an iPhone
+- Participants own the following Tablets:
+  - 18 own an iPad
+  - 2 own an Android tablet
+  - 1 owns a Windows tablet
+  - 1 owns an eBook Reader (e.g. Kindle, Nook)
+  - 8 do not own a tablet
 
 ## Metrics
 
-Design System Team established metrics for this usability test as follows. Metrics were based on a scale of 1 to 7. One being very difficult and seven being very easy:
+Design System Team established System Usability Score (SUS) metrics. Metrics were based on a scale of 1 to 7 with one being very difficult and seven being very easy.
+
+Below is the average outcome of the System Usability Scores (SUS):
 
 | Metric  | Target  | Actual  |
 |---|---|---|
@@ -401,3 +403,13 @@ Pattern recommendations based on the findings are below.
 |Table Sorting|Keep design as tested.|No major issues with this pattern.|
 |Dark Mode Toggle|Keep design as tested.|No major issues with this pattern.|
 |Page Template Header|Keep design as tested.|No major issues with this pattern.|
+
+<!--## Lessons Learned
+
+DST discussed lessons learned from this round of testing. Those included the following:
+
+- Unmoderated Remote Testing does provide useful, valid feedback, and provides us with another tool in our testing arsenal.
+- Reduce the duration of unmoderated testing from two to one week. Since 90% of our test participant results were received within the first 3 days of the start of testing, this will allow us to reduce the cycle time of the entire test process (design, implementation, active testing, analysis, recommendations).
+- Since we developed a prototype of an unmoderated testing platform, rebuild the unmoderated testing platform into a more permanent solution that is easier to reuse and extend.
+- Due to our lack of a secure (HTTPS) web server to deliver the testing, we had to rely on our existing UXG Web Server and thus could not automate the aggregation and analysis of participant results using Microsoft Forms. Move all future unmoderated testing to our new, secure (HTTPS) UXG Web Application Server and integrate Microsoft Forms into the testing platform.
+- For future test designs, everything that looks interactive to a participant should provide some type of feedback, even if just to say what operation would be performed in a real app.-->
