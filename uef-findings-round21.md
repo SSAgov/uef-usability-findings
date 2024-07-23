@@ -10,7 +10,7 @@ The following patterns were evaluated in Round 21 Testing:
 
 - Address (Business)
 - Container (Drag and Drop Rows)
-- International Input Field Toggle Update
+- International Address with Toggle
 - Multi-Select
 - Lists (Drag and Drop)
 - Table Sort Icon and Row Banding
@@ -18,30 +18,37 @@ The following patterns were evaluated in Round 21 Testing:
 - Table Column Customization
 - Table Mobile Layout Sort
 - Table Mobile Layout Advanced Filter
-- Table Mobile Layout Column Customization.
+- Table Mobile Layout Column Customization
 
 ## Methodology
 
-DST conducted usability testing using an unmoderated testing platform on August 27, 2021. The evaluations took place remotely via a new unmoderated testing platform. All evaluations were conducted on desktop computers.
-
-Unmoderated testing was the method of choice during round 21. There were a total of 26 participants.The prototype was built with HTML and Axure. The team gathered Satisfaction User Scores (SUS) for each component in order to gather usability feedback. On a scale of 1-7, 1 being very difficult and 7 being very easy, users were asked to rate the use of each component. The Design System Team aims for a Satisfaction User Score greater than or equal to five for each component in addition to examining user comments.
+Due to working remotely, the Design System Team (DST) conducted unmoderated usability testing on August 27, 2021. The evaluations took place remotely via an unmoderated testing platform created by the team for this purpose. Twenty-six participants were recruited internally due to limited access to the public during the pandemic. An email was sent out to employees in the SSA Office of Systems asking for remote participation in the study. Participants were provided a link to the testing platform where they were asked to read and sign an informed consent form. In the task area of the prototype, participants were walked through a series of tasks. Each task page provided instructions, what was being tested, and a feedback form that collected Satisfaction User Scores (SUS). The scores were rated on a scale of 1-7, 1 being very difficult and 7 being very easy. The Design System Team aims for a Satisfaction User Score greater than or equal to five for each component in addition to examining user comments. All evaluations were conducted on desktop computers. Tasks that required feedback for mobile used an emulator.  
 
 After the evaluations were complete, the team analyzed the results including:
 
 - Facilitator Guide metrics on ease of use.
 - Participant issues or comments regarding specific UEF patterns or screen details.
 
+![Unmoderated Testing Platform for Round 21](./screenshots/round-21/01-unmoderated-testing-platform.png)
+
 ## Participant Information
 
-26 participants were involved in the evaluations. Their demographic information was as follows:
+Twenty-six participants were involved in the evaluations. One participant did not complete the demographic survey. 
 
-- 46% Female, 50% Male and 4% did not identify
-- 62% of evaluators were in the range of 36-55 years old.
-- 65% IT Specialists, 8% Analyst, 4% Branch Chiefs, 4% Senior Engineer, 4% Team Leads, 4% Tech Specialist, 4% IT Supervisor and 7% did not declare their job title
+Participant demographic information for 25 out of 26 participants were as follows:
+
+- 12 Female, 13 Male
+- Age ranges include:
+  - 16 were 36-55 years old
+  - 8 were 56-72 years old
+  - 1 was 26-35 years old
+- Eduaction includes:
 - 12 out of 26 participants have a 4-year degree
 - 12 out of 26 participants have a graduate degree
 - 1 out of 26 participants have some college
 - 1 out of 26 participants did not answer
+- Job titles include:
+  - 65% IT Specialists, 8% Analyst, 4% Branch Chiefs, 4% Senior Engineer, 4% Team Leads, 4% Tech Specialist, 4% IT Supervisor and 7% did not declare their job title
 
 ## Lessons Learned
 
