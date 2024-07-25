@@ -21,15 +21,19 @@ The following patterns were evaluated in Round 21 Testing:
 
 ## Methodology
 
-DST conducted usability testing using an unmoderated testing platform on March 28, 2022. The evaluations took place remotely via the DST unmoderated testing platform. All evaluations were conducted on desktop computers.
+Due to working remotely, the Design System Team (DST) conducted unmoderated usability testing on March 28, 2022. The evaluations took place remotely via an unmoderated testing platform created by the team for this purpose. Twenty-six participants were recruited internally due to limited access to the public during the pandemic. An email was sent out to employees in the SSA Office of Systems asking for remote participation in the study. Participants were provided a link to the testing platform where they were asked to read and sign an informed consent form. In the task area of the prototype, participants were walked through a series of tasks. Each task page provided instructions, what was being tested, and a feedback form that collected Satisfaction User Scores (SUS). The scores were rated on a scale of 1-7, 1 being very difficult and 7 being very easy. The Design System Team aims for a Satisfaction User Score greater than or equal to five for each component in addition to examining user comments. All evaluations were conducted on desktop computers. Tasks that required feedback for mobile used an emulator.
 
-## The Prototype
+The prototype was redesigned to match the new release of the User Experience Framework v3.0.
 
-We evaluated possible new patterns and interactions for use in the User Experience Framework (UEF). These interactions could be used within public-facing and internal applications throughout Social Security Administration. We want to ensure that these interactions will be as easy to use as possible. The prototype was designed to feature each of the 11 components/patterns as a stand-alone task. Each task included chance to rate and respond to open questions on the task to gather feedback.
+![Unmoderated Testing Platform for Round 22](./screenshots/round-22/01-unmoderated-testing-platform.png)
+
+In order to provide an incentive for participation, the Design System Team provided an SSA Org Chart badge to employees that completed all of the tasks and returned the certificate they received at the end. **Seventy-four** employees participated in this round of testing.
+
+![Confirmation Notice with Org Chart Badge Information and Certificate](./screenshots/round-22/01-platform-test-confirmation.png)
 
 ## What We Did
 
-- Collected participant information in a demographic survey, which indicated:
+- Collected demographic information from 74 participants, which indicated:
   - Participants had an average age of 48 and median age of 47.
   - All except one participant that responded own and use at least one type of mobile device.
   - 43 female participants and 33 male participants.
@@ -89,114 +93,157 @@ Scale of 1-5 where 1 = lowest and 5=highest
 
 ## Qualitative Assessment
 
-This section discusses the usability issues, as well as observations and participant comments. The patterns tested within this evaluation group the findings.
+This section discusses the usability issues, as well as observations and participant comments. The findings are grouped by the patterns tested within this evaluation.
 
 ### Task #1: Notices
 
-1. An average of 3.82 out of 5, the noticeability of the pattern was below our target of 80%.
-2. Several of the lower scores wanted more information on the notice, which was not what we were testing.
-3. Most issues were not on the pattern itself, but on the wording and directions of the notice.
-4. Several felt strongly that you should not have to return as the error should be on the page with the error, so it could be corrected in place versus returning after moving forward.
+- An average of 3.82 out of 5, the noticeability of the pattern was below our target of 80%.
+- Most issues were not on the pattern itself, but on the wording and directions of the notice.
+- Several felt strongly that you should not have to return as the error should be on the page with the error, so it could be corrected in place versus returning after moving forward.
+- Several of the lower scores wanted more information on the notice, which was not what we were testing.
+
+> *Screenshot below does not fully represent what was tested at the time. The Notice had a white background with a red border. Closer to the second screenshot below. The language in the first screenshot is correct and what was tested with participants.*
+
+![Danger Alert with Filled Background](./screenshots/round-22/02-alert-danger-filled.png)
+
+> *The screenshot below is an example of the design and not what was actually tested.*
+
+![Danger Alert with White Background](./screenshots/round-22/02-alert-danger.png)
 
 ### Task #2: Confirmation Number
 
-5. There were no major issues with this pattern, with an average of 4.82 out of 5 for noticeability.
-6. Many did not like the confirmation being listed twice, which seemed to cause confusion. The reason the confirmation number was listed twice was to resolve a 508 issue. This has been addressed in our recommendation.
-7. Several questioned the purpose of the link to the SSA website.
-8. The wording should be changed to “will need” to emphasis the need to record the confirmation number.
+- There were no major issues with this pattern, with an average of 4.82 out of 5 for noticeability.
+- Many did not like the confirmation number listed twice, which seemed to cause confusion. (*The reason the confirmation number was listed twice was to resolve a 508 issue. This has been addressed in our recommendation.*)
+- Several questioned the purpose of the link to the SSA website.
+
+![Confirmation Number Alert](./screenshots/round-22/03-alert-confirmation-number.png)
 
 ### Task #3: Tooltip
 
-9. Tooltips had our second to lowest score of 3.23 out of 5 or 65% for ease of locating.
-10. Most knew about tooltips but found the dotted line to not be intuitive.
-11. The dotted line was found to be too close to the underline for hyperlinks.
-12. Several suggested bolding the text.
+- Tooltip had our second to lowest score of 3.23 out of 5 or 65% for ease of locating.
+- Most knew about tooltips but did not find the dotted indicator line to be intuitive.
+- The dotted line was found to be too close to the underline for hyperlinks.
+- Several suggested bolding the text.
+
+![Tooltip and Indicator](./screenshots/round-22/04-tooltip.png)
 
 ### Task #4: Button Placement
 
-13. 90% of participants who responded preferred Button Placement Option 1, (Yes, No, Cancel) versus Option 2 (Cancel, No, Yes).
-14. Most would not make any changes and had nothing to suggest.
-15. One suggested that “Cancel” not be used and another suggested another approach to using cancel.
-16. A few questioned the use of a primary button if we are seeking a “true” response.
+- 90% of participants who responded preferred Button Placement Option 1, (Yes, No, Cancel) versus Option 2 (Cancel, No, Yes).
+- Most would not make any changes and had nothing to suggest.
+- Some participants were confused on the use of "Cancel" with a Yes and No question and felt it should not be there.
+- A few questioned the use of a primary button if we are seeking a “true” response to the question. (*This was not part of the research questions for the study. DST was only looking at the placement of the buttons.*)
+
+![Dialog with Primary Button on Left](./screenshots/round-22/05-dialog-button-placement-1.png)
+
+![Dialog with Primary Button on Right](./screenshots/round-22/05-dialog-button-placement-2.png)
 
 ### Task #5 Inline Editing
 
-17. With an average of 4.41 out of 5, most found this very intuitive.
-18. Adding the word Edit was mentioned by 5 participants.
-19. Several participants suggested adding a tooltip or something similar as an option rather than adding the word edit to the button.
-20. Several participants suggested reordering with the save button to the left.
-21. Three mentioned the placement should be lowered to be next to the text to be edited, versus next to the label.
-22. Two noted the icon was too small.
-23. Several found that it made sense after showing the evaluation questions, which implies either our instructions for this task likely could have been clearer, or the pencil icon was not intuitive to all our testers.
+- With an average of 4.41 out of 5, most found this very intuitive.
+- Five participants suggested adding the word "Edit".
+- Several participants suggested adding a tooltip or something similar as an option rather than adding the word edit to the button.
+- Several participants suggested moving the save button to the left.
+- Three participants suggested moving the pencil icon next to the text to be edited, versus next to the label.
+- Two participants thought the icon was too small.
+- Several participants found that it made sense after showing the evaluation questions, which implies either our instructions for this task likely could have been clearer, or the pencil icon was not intuitive.
+
+![Inline Editing in Read-Only Mode](./screenshots/round-22/06-inline-editing-1.png)
+
+![Inline Editing in Edit Mode](./screenshots/round-22/06-inline-editing-2.png)
 
 ### Task #6: Table Editing
 
-24. There was an issue with the feedback, as we did not get responses from many of our participants for our quantitative question on “how intuitive was this task?” We had 41 responses from our 74 participants with an average of 4.41 on this being intuitive. Though this showed high intuition, we are focusing on using the responses from the other questions.
-25. Having multiple ways to edit the table content seem to confuse some of the participants. It is somewhat hard to verify which method people used based on their responses. Most seem to use the pencil icon for inline editing. This may also be because of the prior task.
-26. “This was very easy! The combination of the 'Stubby Pencil icon' with the word 'Edit' under a heading of 'Actions' made this a breeze. No guessing or misses here.”
-27. Several missed the implied instructions to update the restaurant type to Bakery, feeling the instructions could have been more detailed.
-28. Several also suggested that the label be included for the save and cancel icon buttons.
-29. Several noticed that a tool tip was not present and implies it would be helpful, especially for the save and cancel buttons.
-30. One suggested for the Edit Table feature, that the Save All become highlighted once a change is made to the table content.
-31. Other icons or buttons were suggested for the save checkbox and x for cancel.
-32. One participant interpreted the red X as delete versus cancel.
-33. One participant suggested that restaurant type should be a drop-down selection.
+- There was an issue with the feedback, as we did not get responses from many of our participants for our quantitative question on “how intuitive was this task?” We had 41 responses from our 74 participants with an average of 4.41 on this being intuitive. Though this showed high intuition, we are focusing on using the responses from the other questions.
+- Having multiple ways to edit the table content seemed to confuse some of the participants. It is somewhat hard to verify which method people used based on their responses. Most seem to understand the pencil icon for inline editing. This may also be because of the prior task.
+- Several missed the implied instructions to update the restaurant type to Bakery, feeling the instructions could have been more detailed.
+- Several participants suggested to include a label with the Save and Cancel icon buttons during edit mode. Some suggested using a tooltip.
+- One participant suggested only showing the "Save All" button once an edit was made to the table content.
+- Other icons or buttons were suggested for the save checkbox and x for cancel.
+- One participant interpreted the red X as delete versus cancel.
+- One participant suggested that restaurant type should be a drop-down selection. (*This is outside of the scope of the test*)
+
+**Participant Quote:**
+
+- “This was very easy! The combination of the 'Stubby Pencil icon' with the word 'Edit' under a heading of 'Actions' made this a breeze. No guessing or misses here.”
+
+![Table Inline Editing in Read-Only Mode](./screenshots/round-22/07-table-inline-editing-1.png)
+
+![Table Inline Editing in Edit Mode for All Rows](./screenshots/round-22/07-table-inline-editing-2.png)
+
+![Table Inline Editing in Edit Mode for One Row](./screenshots/round-22/07-table-inline-editing-3.png)
 
 ### Task #7: Switch
 
-34. There were no major issues with this pattern.
-35. With an average of 4.71 out of 5, most found this very intuitive.
-36. 87% preferred Option 1 with some being very vocal on their preference.
-37. Option 2 was referred to as vague and even “hated” by participants.
-38. A huge majority mentioned the word “on” and “off” in their response to why the preferred Option 1, showing a clear preference to the labels being in the pattern itself.
-39. Three of the participants that preferred Option 2 have that preference due to it defaulting to off, not due to the labeling.
-Task #8: Card Features
-40. Most found the option to add in the 3 dots button.
-41. This question reversed the order on the scoring, having 1 as being very intuitive and 5 as not at all. This appears to confuse several participants as seen by their comments. We therefore are relying more on the comments and responses.
-42. Several mentioned in their responses, that it was not user friendly, easy to find, or that they were not able to find the option.
-43. Several suggested adding the “edit” as a label.
-44. One suggested using the hamburger icon.
-45. One suggested adding a row with the label of “type here to add…”
-46. A few suggested adding an Add icon.
-47. Two also mentioned the need for a tooltip.
+- There were no major issues with this pattern.
+- With an average of 4.71 out of 5, most found this very intuitive.
+- 87% preferred Option 1 with some being very vocal on their preference.
+- Option 2 was referred to as vague and even “hated” by participants.
+- A huge majority mentioned the word “on” and “off” in their response to why they preferred Option 1, showing a clear preference to the labels being in the pattern itself.
+- Three of the participants prefer Option 2 because it was set to "Off" as default, not due to the labeling.
+
+![Switch](./screenshots/round-22/08-switch.png)
+
+### Task #8: Card Features
+
+- Most participants located the menu under the vertical dots button.
+- This question reversed the order on the scoring, having 1 as being very intuitive and 5 as not at all. This appeared to confuse several participants as seen by their comments. We therefore are relying more on the comments and responses.
+- Several participants mentioned that the design was not user friendly, easy to find, or they were not able to find the option.
+- Several participants suggested adding an “Edit” label next to the icon.
+- One suggested using the hamburger icon instead of the vertical dots.
+- One suggested adding a row with the label of “type here to add…”
+- A few suggested using an "Add" icon.
+- Two participants mentioned the need for a tooltip.
+
+![Card with Contextual Menu](./screenshots/round-22/09-card-context-menu.png)
+![Card with Contextual Menu Open](./screenshots/round-22/09-card-context-menu-open.png)
 
 ### Task #9: Tags
 
-48. With an average of 2.87 out of 5, the notice did not stand out that much.
-49. Most understood the purpose of the table with only three unsure (not including the 2 who did not answer).
-50. Several did not like that the denial notice appeared to them as a button. We need to think about how to make the tag standout more as not being a button.
-51. Several suggested using more color for the statuses to standout more
+- With an average of 2.87 out of 5, the tags did not stand out enough.
+- Most understood the purpose of the table with only three unsure (not including the 2 who did not answer).
+- Several did not like that the denial tag looked like a button.
+- Several suggested using more color for the statuses to make it stand out more:
+  - Allowance = Green
+  - Cessation = Yellow
+  - Denial = Red", such as red for denial.
+- Several participants wanted to be able to get more information by clicking on an icon or link. (*The table was not part of this test scenario and only used for display purposes of the Tag.*)
+- A few suggested a Notice icon versus the Tag.
+- Several participants commented on the use of language (i.e. "SSA jargon") and suggested using plain language. (*Language was out of scope for this scenario*)
+- One participant suggested using a color fill for the entire cell to make the Tag stand out more.
 
-- 51.1. Allowance = Green
-- 51.2. Cessation = Yellow
-- 51.3. Denial = Red", such as red for denial.
+![Tags in a Table](./screenshots/round-22/10-tags-table.png)
 
-52. Several wanted to be able to get more information by clicking on an icon or link.
-53. A few suggested a notice icon versus the tag.
-54. Several also suggested we be careful about using SSA jargon and use more plain language.
-55. One tester suggested using a color fill for the entire cell to make it stand out more.
-Task #10: Pills
-56. All except one participant clearly understood that there were 3 unread messages.
-57. With an average of 4.39 out of 5, the number of unread messages clearly stood out to most participants.
-58. Several thought the number 3 should be a bit larger.
-59. Out of all tasks, this one received the most responses of “nothing” for suggested changes.
+### Task #10: Pills
+
+- With an average of 4.39 out of 5, the number of unread messages clearly stood out to most participants.
+- All except one participant clearly understood that there were 3 unread messages.
+- Several thought the number 3 should be a bit larger.
+- Out of all tasks, this one received the most responses of “nothing” for suggested changes.
+
+![Pill in a Tag within Sub-Navigation](./screenshots/round-22/11-pill.png)
 
 ### Task #11: Table Column Customization
 
-60. Most correctly clicked on Column settings, though approximately 20% either chose the wrong option first or did not figure it out.
-61. While most also understood the color, again about 20% of respondents did not understand the use of color.
-62. Almost all that understood the method of removing a column were able to explain how to restore the column to the table.
-63. Even of those who completed this successfully, several expressed confusions over column settings versus edit table.
-64. With an average of 3.63 out of 5, this task was not intuitive to all, and even those for which it was expressed concern that this might not be easy to some users.
-65. Three participants suggested making the x to remove a column be red.
-66. One participant suggested removing the Apply button and have changes automatically take effect to decrease clicks.
-67. Between this task and task 6, we found that the Edit Table button causes confusion. The Edit Table button does not seem to imply to most that it is used to Edit the Table content. One possible option would be to relabel the button to “Edit Table Content” to clarify the function, though most seem to use the inline editing option when given a choice.
+- With an average of 3.63 out of 5, this task was not intuitive to all participants.
+- Most correctly clicked on Column settings, though approximately 20% either chose the wrong option first or did not figure it out.
+- Almost all that understood the method of removing a column were able to explain how to restore the column to the table.
+- Several participants expressed confusion over the difference between "Column Settings" versus "Edit Table".
+- Around 20% of participants did not understand the use of color for column pills.
+- Three participants suggested changing the color of the "X" icon to red.
+- One participant suggested removing the "Apply to Table" button and have changes automatically take effect to decrease clicks.
+
+> *Between this task and task 6, we found that the "Edit Table" button causes confusion. The "Edit Table" button does not seem to imply to most that it is used to Edit the Table content. One possible option would be to relabel the button to “Edit Table Content” to clarify the function, though most seem to use the inline editing option when given a choice.*
+
+![Table Column Settings](./screenshots/round-22/12-table-column-settings.png)
 
 ## Recommendations and Next Steps
 
-For future testing we need emphasis that we are wanting the tester’s own feedback and recommendations, not what they think others’ feedback will be.  This can possibly be accomplished in the initial instructions and by rephrasing questions to focus on the one taking the test.  The initial instructions are needed as most of our questions were addressed properly, but the feedback was often their opinion on how others might respond.
+For future testing, we need to emphasize that we want the participant's own feedback and recommendations, not what they think others’ feedback will be. This can possibly be accomplished in the initial instructions and by rephrasing questions to focus on the one taking the test. The initial instructions are needed as most of our questions were addressed properly, but the feedback was often their opinion on how others might respond.
 
-- Initial Instructions:  We are desiring your feedback on this prototype. Please limit your response to your own and not on how you might think others will respond or have issues with this prototype.
+For example:
+
+- Initial Instructions: We are desiring your feedback on this prototype. Please limit your response to your own and not on how you might think others will respond or have issues with this prototype.
 - Questions: Ensure that we are addressing the tester (How would you?, What would you?, etc.)
 
 Based on this round of testing, the following patterns were found to be problematic for enough participants to necessitate retesting or design refinements:
