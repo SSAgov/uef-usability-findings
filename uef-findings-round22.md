@@ -209,7 +209,7 @@ This section discusses the usability issues, as well as observations and partici
   - Denial = Red", such as red for denial.
 - Several participants wanted to be able to get more information by clicking on an icon or link. (*The table was not part of this test scenario and only used for display purposes of the Tag.*)
 - A few suggested a Notice icon versus the Tag.
-- Several participants commented on the use of language (i.e. "SSA jargon") and use plain language. (*Language was out of scope for this scenario*)
+- Several participants commented on the use of language (i.e. "SSA jargon") and suggested using plain language. (*Language was out of scope for this scenario*)
 - One participant suggested using a color fill for the entire cell to make the Tag stand out more.
 
 ![Tags in a Table](./screenshots/round-22/10-tags-table.png)
