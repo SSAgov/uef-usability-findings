@@ -2,13 +2,15 @@
 
 ## Background
 
+The SSA Design System is the official design system of the Social Security Administration. The designs are rendered by the User Experience Framework (UEF), a web components framework built by SSA.
+
 A design system is a definition of visual style and interactions, achieved via a collection of reusable components, guided by clear standards, that can be assembled together to build any number of applications.
 
-Design system takes several steps to build a pattern right from researching industry standards to prototyping, usability testing and then developing it.
+Design systems take several steps to build a pattern right from researching industry standards to prototyping, usability testing, and then developing it.
 
 **All of our components are used each day by millions of Americans. For this reason, each pattern in our library is designed and tested with real users to solve real problems.**
 
-Here are the benefits to using a design system:
+The SSA Design System provides the following benefits:
 
 1. Provides a uniform user experience across an enterprise
 2. A Unified Language
@@ -20,7 +22,7 @@ Here are the benefits to using a design system:
 
 ## Testing Results
 
-The UEF Workgroup completed several rounds of testing in various locations with multiple different user groups. All patterns were tested in one or more rounds and on various types of mobile devices.
+The SSA Design System Team completed several rounds of testing in various locations with multiple different user groups. All patterns were tested in one or more rounds and on various types of mobile devices.
 
 Below are the dates and locations of all the testing sessions.
 
