@@ -50,6 +50,7 @@ Below are the dates and locations of all the testing sessions.
 | [Round 20](uef-findings-round20.md) | UEF 3.0 | Textbox with Autocomplete, Smart Search, Lists (Static), Lists (Drag and Drop), Container (Drag and Drop Rows), Negative numbers, Re-Entry Number, Table Sorting, Dark Mode, Page Template Header | February 22 - March 5, 2021 |
 | [Round 21](uef-findings-round21.md) | UEF 3.0 | Address (Business), Container (Drag and Drop Rows), International Input Field Toggle Update, Multi-Select, Lists (Drag and Drop), Table Sort Icon and Row Banding, Table Advanced Filter, Table Column Customization, Table Mobile Layout Sort, Table Mobile Layout Advanced Filter, Table Mobile Layout Column Customization|August 23 - August 27, 2021 |
 | [Round 22](uef-findings-round22.md) | UEF 3.0 | Alert, Confirmation Number, Tooltip, Button Group Placement, Inline Editing, Switch, Card, Tag, Pill, Table Column Customization |March 28 - April 1, 2022 |
+| [Round 23](uef-findings-round23.md) | UEF 3.0 | Public Template, Address International, Gender Identity, Sex at Birth, Pronouns, Link Confirmation Modal, File Input and Error Messages, Button Group Placement in Dialog, Datepicker, Alert Compact, Summary with Accordion, Confirmation Alert |March 6 – March 13, 2024 |
 
 ## Related Repositories
 
