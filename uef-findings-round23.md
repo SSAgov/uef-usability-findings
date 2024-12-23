@@ -69,7 +69,7 @@ With members of the public, UXG personnel:
 - Conducted remote usability testing via Zoom with 10 participants on March 6–13, 2024.
   - Ten participants joined the session on their laptop or desktop.
   - UXG Staff used laptops that run on the UXG Off-Net Working Environment (UOWE).
-  - Participants were tested on an 'Apply for Disability Application' Prototype via the Axure RP online tool, Axshare Cloud.
+  - Participants were tested on an 'Apply for Disability Application' Prototype via the Axure RP online tool, Axure Cloud.
 - Collected participant information in a pre-study demographic questionnaire, which indicated:
   - Four males, three females, three non-binary.
   - Participants ranged in age from 18-67, with a median age of 42.5.
@@ -117,10 +117,10 @@ As shown in Table 3, Activity 1 involved scenario-based tasks where participants
 |Gender Identity|Consider updating|Include option to select “N/A” for persons who find the subject emotionally charged and irrelevant to the task.|
 |Sex Listed at Birth|Keep as is|No major usability issues.|
 |Pronouns|Consider updating|While 90% were able to enter their pronouns, 60% of participants had negative perception.|
-|Link Confirmation Modal|Consider updating|Change from modal dialogue to opening links in a new browser/browser tab.|
+|Link Confirmation Modal|Consider updating|Change from modal dialog to opening links in a new browser/browser tab.|
 |Button Group Placement Dialog|Consider updating|Placement matched most participants’ expectations, but preferred order of the buttons was reversed.|
 |File Input and Errors|Consider updating|Clearly distinguish between red of the error messages vs. the Acrobat icon, and which message belongs to which file.|
-|Date Picker|Consider updating|Make all dates clickable or increase color contrast between clickable & non-clickable dates.|
+|Date Picker|Consider updating|Make all dates selectable or increase color contrast between clickable & non-clickable dates.|
 |Compact Alert|Keep as is|No major usability issues.|
 |Summary with Accordion|Consider updating|No issues with styling or design. Most participants expected “Edit” to redirect to the input page, but half desired in-line or modal edit functionality.|
 |Confirmation Alert|Keep as is|No major usability issues.|
@@ -161,7 +161,7 @@ This section reports quantitative and qualitative results for each pattern inclu
 
 5. One participant did not notice the toggle and was unable to make the switch.
 
-6. Nearly all (9 out of 10) participants were able to successfully change the country drop down promptly.
+6. Nearly all (9 out of 10) participants were able to successfully change the country dropdown promptly.
 
     6.1. One participant was unable to change the dropdown and needed assistance. This participant did not understand the dual citizenship scenario.
 
@@ -175,7 +175,7 @@ This section reports quantitative and qualitative results for each pattern inclu
 
     8.2. Autofill of state and country.
 
-    8.3. Choose a country from a drop-down menu associated with the international toggle instead of the country label.
+    8.3. Choose a country from a dropdown menu associated with the international toggle instead of the country label.
 
 ![Address International](./screenshots/round-23/02-address-international.png)
 
@@ -184,7 +184,7 @@ This section reports quantitative and qualitative results for each pattern inclu
 |Recommendation|Rationale|
 |---|---|
 |Add option to select ‘N/A’ or ‘skip’ to allow users to bypass the entire gender identity, pronoun, and sex listed at birth questions for demographics who find the subject emotionally charged and irrelevant to the task.| All participants (100%) were able to either enter their gender identity or select preferred not to share.|
-| |Controversial subjects warrant flexible design to adopt to user’s needs and expectations.|
+| |Controversial subjects warrant flexible design to adapt to user’s needs and expectations.|
 
 > **Note that this pattern was unchanged from the United States Web Design System (USWDS) design.**
 
@@ -202,7 +202,7 @@ This section reports quantitative and qualitative results for each pattern inclu
 
 10. Most participants (8 of 10) were able to read the example text.
 
-    10.1. The average rating for how helpful the example text was on a scale of 1 to 5 with 1 being the least helpful and 5 being the most helpful n= 4.38.
+    10.1. The average rating for how helpful the example text was on a scale of 1 to 5 with 1 being the least helpful and 5 being the most helpful (n=4.38).
 
     10.2. Within this group 63% (5 out of 8) participants ranked the example text as a ‘5’ for helpfulness.
 
@@ -220,7 +220,7 @@ This section reports quantitative and qualitative results for each pattern inclu
 
     >“I didn’t need to read. It's self-explanatory. Whenever I see gender identity I just enter “man”. (P1)
 
-    12.3. One participant suggested to provide a multi-select drop down list.
+    12.3. One participant suggested to provide a multi-select dropdown list.
 
     >“Give list of choices. The text is fine but just change to tick box (i.e. multi-select dropdown).” (P10)
 
@@ -340,7 +340,7 @@ This section reports quantitative and qualitative results for each pattern inclu
 
 |Recommendation|Rationale|
 |---|---|
-|Change from modal dialogue to opening links in a new browser/browser tab.|Participants understood the content. Modal behavior failed to meet participants’ expectation (0% success rate).|
+|Change from modal dialog to opening links in a new browser/browser tab.|Participants understood the content. Modal behavior failed to meet participants’ expectation (0% success rate).|
 
 21. None of the participants (0 out of 10) expected the link confirmation dialogue to appear as it did.
 
@@ -348,9 +348,9 @@ This section reports quantitative and qualitative results for each pattern inclu
 
 >“It’s perfectly clear.” (P1)
 
-23. To meet participants expectations of the behavior of the link confirmation dialogue upon click:
+23. To meet participants expectations of the behavior of the link confirmation dialog upon click:
 
-    23.1. Redirect participants to another page with content-associated with the initial link participant clicked-on.
+    23.1. Redirect participants to another page with content that is associated with the initial link the participant selected.
 
     >“No, I was kinda expecting it will open the link in a new page, and when I see this modal window it’s annoying to me.” (P2)
 
@@ -538,7 +538,7 @@ This section reports quantitative and qualitative results for each pattern inclu
 
     52.3. Option to add appointment to calendar.
 
-    52.4. Have drop down menu to select with available appointment times.
+    52.4. Have dropdown menu to select with available appointment times.
 
 ![Compact Alert](./screenshots/round-23/10-alert-compact.png)
 
