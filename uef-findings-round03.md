@@ -8,15 +8,15 @@ Patterns used in this round of testing included:
 
 | Layout  | Inputs  |   | Links  |
 |---|---|---|---|
-| Public Template  | Address (International)  | Phone (International)  | Definition  |
-| Container (Basic)  | Check List | Radio List   | PDF  |
+| Public Template  | Address (International)  | Radio List | Definition  |
+| Container (Basic)  | Check List | Sex   | PDF  |
 |  Container (Summary) | Country  | Social Security Number (SSN) | Help  |
 |  Form Controls | Date (of Event)  | State  | Print (Page)  |
 | Modal (Lightbox)  | Date (Text Box)  | Text Area  | Print (Region)  |
 | Single Row Action Table  | Drop List  | Text Box  |   |
-| Notice  | Email Address | Yes/No   |   |
-| Application Sections  | Gender | ZIP Code  |   |
-|   | Name |  |   |
+| Notice  | Email Address |  Yes/No  |   |
+| Application Sections  | Name | ZIP Code  |   |
+|   | Phone (International) |  |   |
 
 The prototype used was a fake application based on iAppeals. It guided the participant through a series of screens that allowed them to help their fictional neighbor (played by the facilitator) complete her disability application online.
 
@@ -106,7 +106,7 @@ There were no significant problems with any of the patterns tested; however, the
 ### Review Screen
 
 - One Android phone user stated he thought the screen required too much scrolling.
-- One participant of 7 found the go to button from the review page (when prompted to find a way other than the Previous button to go back
+- One participant of 7 found the go to button from the review page when prompted to find a way other than the Previous button to go back
 - One participant when looking at the “Go to” button links did not realized he could scroll within the modal
 
 > Future testing note: We may want to crop the Go to menu in such a way to imply there’s more if you scroll by just showing part of the bottommost option, etc.

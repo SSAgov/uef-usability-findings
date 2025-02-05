@@ -8,9 +8,6 @@ The SSA User Experience Group (UXG) conducted usability testing with the public 
 
 - Public Template
 - Address International
-- Gender Identity
-- Sex at Birth
-- Pronouns
 - Link Confirmation Modal
 - File Input and Error Messages
 - Button Group Placement Dialog
@@ -21,23 +18,19 @@ The SSA User Experience Group (UXG) conducted usability testing with the public 
 
 ## Methodology
 
-Remote moderated usability testing was conducted from March 6 – March 13, 2024, with 10 participants from the public across the United States. Study required an inclusive participant sample including those who self-identified as male, female, non-binary, or other gender.
+Remote moderated usability testing was conducted from March 6 – March 13, 2024, with 10 participants from the public across the United States.
 
 Sessions were 60 minutes one-on-one with screen sharing conducted over Zoom. A pre-study demographic questionnaire was administered followed by a usability testing activity. The usability testing included scenario-based tasks based on a fictitious 'Apply for Disability' prototype. After completion of each task, structured post-interview questionnaires were administered followed by a design preference activity.
 
 ## Participants
 
-The study totalled ten participants. Participants’ ages ranged from 18-67 with median age 42.5 as shown in Table 1. Most participants were within the age group of 18-49 averaging 60% (6 out of 10). See reference Table 2 for participant’s birth sex, gender identity, and age group.
+The study included ten participants. Participant ages ranged from 18-67 with median age 42.5 as shown in Table 1. Most participants were within the age group of 18-49 averaging 60% (6 out of 10).
 
 - Six participants ages 18-49.
 - Two participants ages 50-62.
 - Two participants ages 63-67.
 
-Participants’ gender identity based on self-identification:
 
-- Four participants self-identified as male.
-- Three participants self-identified as female.
-- Three participants self-identified as non-binary.
 
 **Table 1 Participant Demographic Statistics:**
 
@@ -45,22 +38,7 @@ Participants’ gender identity based on self-identification:
 |---|---|
 |Age Range|Ages 18-67, median = 42.5|
 |Birth Sex|5 male, 4 female|
-|Gender Identity|4 male, 3 female, 3 non-binary, 0 others|
 
-**Table 2 Participant Demographic by Birth Sex, Gender Identity, and Age Group:**
-
-|Participant|Birth Sex|Gender Identity|Age Group|
-|---|---|---|---|
-|P1|Male|Male|18-49|
-|P2|Male|Non-binary|18-49|
-|P3|Female|Female|18-49|
-|P4|Female|Male|18-49|
-|P5|Male|Non-binary|18-49|
-|P6|Female|Non-binary|18-49|
-|P7|Female|Female|50-62|
-|P8|Female|Female|63-67|
-|P9|Male|Male|50-62|
-|P10|Male|Male|63-67|
 
 ## Procedure
 
@@ -71,7 +49,6 @@ With members of the public, UXG personnel:
   - UXG Staff used laptops that run on the UXG Off-Net Working Environment (UOWE).
   - Participants were tested on an 'Apply for Disability Application' Prototype via the Axure RP online tool, Axure Cloud.
 - Collected participant information in a pre-study demographic questionnaire, which indicated:
-  - Four males, three females, three non-binary.
   - Participants ranged in age from 18-67, with a median age of 42.5.
   - All participants were proficient in written and spoken English.
   - Three post-graduate degrees, three bachelor’s degrees, three some college/no degree, and one with some high school education.
@@ -92,7 +69,7 @@ As shown in Table 3, Activity 1 involved scenario-based tasks where participants
 
 |Task|Patterns|Scenario|
 |---|---|---|
-|1|Public Template, Address (International), Gender Identity, Sex at Birth, Pronouns|Perception of Public Template; Complete “Apply for Disability Benefits” Form, assuming a dual citizenship status|
+|1|Public Template, Address (International) |Perception of Public Template; Complete “Apply for Disability Benefits” Form, assuming a dual citizenship status|
 |2|Link Confirmation Modal|Access Privacy Act via “Link Confirmation Modal”|
 |3|Button Group Placement Dialog|Add a Doctor via 'Dialog Button Group Placement'|
 |4|File Input and Errors|Receives and Recovers from File Input Errors|
@@ -114,9 +91,6 @@ As shown in Table 3, Activity 1 involved scenario-based tasks where participants
 |---|---|---|
 |Public Template 2|Keep as is|No major usability issues|
 |Address (International)|Keep as is|No major usability issues|
-|Gender Identity|Consider updating|Include option to select “N/A” for persons who find the subject emotionally charged and irrelevant to the task.|
-|Sex Listed at Birth|Keep as is|No major usability issues.|
-|Pronouns|Consider updating|While 90% were able to enter their pronouns, 60% of participants had negative perception.|
 |Link Confirmation Modal|Consider updating|Change from modal dialog to opening links in a new browser/browser tab.|
 |Button Group Placement Dialog|Consider updating|Placement matched most participants’ expectations, but preferred order of the buttons was reversed.|
 |File Input and Errors|Consider updating|Clearly distinguish between red of the error messages vs. the Acrobat icon, and which message belongs to which file.|
@@ -179,162 +153,6 @@ This section reports quantitative and qualitative results for each pattern inclu
 
 ![Address International](./screenshots/round-23/02-address-international.png)
 
-### Gender Identity
-
-|Recommendation|Rationale|
-|---|---|
-|Add option to select ‘N/A’ or ‘skip’ to allow users to bypass the entire gender identity, pronoun, and sex listed at birth questions for demographics who find the subject emotionally charged and irrelevant to the task.| All participants (100%) were able to either enter their gender identity or select preferred not to share.|
-| |Controversial subjects warrant flexible design to adapt to user’s needs and expectations.|
-
-> **Note that this pattern was unchanged from the United States Web Design System (USWDS) design.**
-
-<!--**Note that the prototype set all fields as required and forced users to enter data. Against the Design System Team's recommendation.**-->
-
-9. Most participants (8 out of 10) entered their gender identity in the input field.
-
-    9.1. One participant did not respond to the question and found "preferring not to share" offensive. This participant selected "preferring not to share" as the last resort. They wanted the option to "skip" or select "N/A".
-
-    >“I really don’t like this gender identity bullsh*t. Preferring not to share just puts me off – I’m just offended by the whole thing.” (P7)
-
-    9.2. Some participants (2 out of 10) were upset and “offended by the whole gender identity thing". These two participants cited it as “nonsense” and “bullsh*t” and found it irrelevant to applying for disability.
-
-    > “I’m kind of upset with the U.S why they are promoting this stuff. I don’t subscribe to this nonsense. Why do I need to put my gender identity 3 times.” (P3)
-
-10. Most participants (8 of 10) were able to read the example text.
-
-    10.1. The average rating for how helpful the example text was on a scale of 1 to 5 with 1 being the least helpful and 5 being the most helpful (n=4.38).
-
-    10.2. Within this group 63% (5 out of 8) participants ranked the example text as a ‘5’ for helpfulness.
-
-11. Some participants (2 out of 10) did not read the example text, since they found the label 'Gender Identity' self-explanatory.
-
-    11.1. These participants were instructed to read the example text and rate how helpful they found the example text a ‘5’ as being the most helpful.
-
-    11.2. Their average rating was n='5'.
-
-12. Most participants (7 out of 10) rated the text associated with Gender Identity as a '5' on a scale of 1 to 5 with 1 being the most difficult to understand and 5 being the easiest to understand.
-
-    12.1. The average rating for the ease of understanding the example text was n= 4.4.
-
-    12.2. Amongst this group, two participants did not need to read the text, since they found the label "Gender Identity" self-explanatory but were instructed to read it and provide a rating.
-
-    >“I didn’t need to read. It's self-explanatory. Whenever I see gender identity I just enter “man”. (P1)
-
-    12.3. One participant suggested to provide a multi-select dropdown list.
-
-    >“Give list of choices. The text is fine but just change to tick box (i.e. multi-select dropdown).” (P10)
-
-    12.4. One participant expressed not being happy with it.
-
-    >"It's easiest to understand, but I'm not happy to see it three times.” (P3)
-
-    12.5. One participant gave the lowest rating as a "2" and found it unclear.
-
-    >“It’s not clear and doesn’t allow people to ignore it. I would just put N/A for both.” (P7)
-
-![Gender Identity](./screenshots/round-23/03-gender-identity.png)
-
-### Sex Listed at Birth
-
-|Recommendation|Rationale|
-|---|---|
-|Include option to select ‘N/A’ in current design.| No major usability issues with 100% success selecting an option in the radio list.|
-
-> **Note that this pattern was unchanged from the United States Web Design System (USWDS) design.**
-
-<!--**Note that prototype set all fields as required and forced users to enter data. Against the Design System Team's recommendation.**-->
-
-13. All participants (10 out of 10) successfully selected an option in the radio list for Sex Listed at Birth.
-
-14. Nearly all participants (9 out of 10) were able to read the text provided with Sex Listed at Birth.
-
-    >“I like how it is simple and concise and has examples for people who don’t know.” (P4)
-
-    14.1. Two participants found the question "very controversial" and suggested to “not have the question at all” or the option to select non-applicable or skip.
-
-    > “I wouldn’t have it there at all – back a couple years ago it was just one gender.” (P3)
-    >
-    >“Very controversial – it should have a non-applicable or if you can just skip it.” (P7)
-
-15. Participants rated how helpful the text for sex on a scale of 1 to 5 with 1 being the most difficult to understand and 5 being the easiest to understand with an average of n= 4.78.
-
-16. Participants rated the ease of understanding the text on a scale of 1 to 5 with 1 being the most difficult to understand and 5 being the easiest to understand with an average of n= 4.5.
-
-    16.1. Amongst this group, participants found the text "straightforward, extremely clear” (P3) and had no issues.
-
-    16.2. One participant gave the lowest rank of ‘1’ felt the question was “ridiculous”.
-
-    >“This is ridiculous. This is for the 20-year-olds. It’s a one or it’s a negative
-    >
-    >"This is for a group of people that you have to appeal to in the U.S." (P7)
-
-![Sex Listed at Birth](./screenshots/round-23/04-sex-birth.png)
-
-### Pronouns
-
-|Recommendation|Rationale|
-|---|---|
-|Fix improper grammar: Capitalize the first letter in the pronouns. Change “for example,” to “For example:”|While 90% were able to enter their pronouns, 60% of participants had negative perception.|
-|Change from text input to multi-select with an option for “other: specify”, which allows users to input their own identity.|Non-binary participants were offended by improper grammar and found the pronouns limited while other participants found the questions redundant or were offended by the subject.|
-|Add option to select ‘N/A’ or ‘skip’ to allow users to bypass the entire gender identity, pronoun, and sex listed at birth questions.|Controversial issue needs flexible design.|
-
-> **Note that this pattern was unchanged from the United States Web Design System (USWDS) design.**
-
-<!--**Note that prototype set all fields as required and forced users to enter data. Against the Design System Team's recommendation.**-->
-
-17. Nearly all participants (9 of 10) entered their pronouns in the input field.
-
-17.1. One participant chose to ignore the question and only selected the option ‘prefer not to share’ as a last resort once informed it was required.
-
-18. All participants (10 out of 10) were able to read the example text provided with pronoun and found it self-explanatory, easy to understand, and redundant.
-
-    18.1. The average rating for how helpful the example text on a scale of 1 to 5 with 1 being the least helpful and 5 being the most helpful was n= 4.2.
-
-    >“It’s neither helpful nor not helpful. It seems redundant; it’s very self-explanatory.” (P1)
-
-    18.2. One participant gave the lowest rating of '1' who felt:
-
-    >"It’s not helpful at all – I just don’t appreciate this pronoun garbage – it’s not cool". (P7)
-
-    18.3. The average rating for the ease of understanding on a scale of 1 to 5 with 1 being the least helpful and 5 being the most helpful was n= 4.5.
-
-    >“It’s easy to understand but ridiculous to include this. I don’t do this with my tax returns.” (P7)
-
-    18.4. Most participants (8 out of 10) read the example text to complete the form.
-
-    18.5. Two participants (2 out of 10) did not read the text because they knew which pronoun applied to them and found it self-explanatory.
-
-    >“I see pronouns I just write “he” – like when you fill out an online form and you know it doesn’t apply to you, so you just skip it.” (P1)
-    >
-    >“Yes, I am able to read the text, but no I did not read the text. It was straight forward.” (P10)
-
-19. Some participants (3 out of 10) were either bothered that the pronouns were not capitalized or found the options restrictive and not inclusive. These participants suggested:
-
-    19.1. Capitalize the pronouns.
-
-    >“It’s not typically. People see them presents like he/him, they/them, her/she and giving both sides of the proper pronoun.” (P6)
-    >
-    >“Just noticed, 1st letter of pronouns and gender identity is lower case – that bothers me.   all the gender identities are lowercase and so they should be capitalized.” (P2)
-
-    19.2. Provide a multi-select list to allow people to select more than one gender.
-
-    19.3. Provide a multi-select list and allow them to fill in the blank.
-
-    >“He, she, they—in reality there are any number of other options. It’s not as inclusive as it should be since it only asked me for one of them it’s not entirely inclusive.” (P5)
-
-20. Most participants (6 out of 10) had negative perceptions when asked what they thought of the examples text used with pronoun. Participants' negative perception were due to:
-
-    20.1. Being asked redundant and irrelevant information.
-
-    20.2. Feeling they were being "shoved in the face" with "a crack of mania" and “being made to follow these rules”.
-
-    >“It really bothers me because I’m a female, I respect whatever changes of what people are going through but it shouldn’t be shoved in my face- I don’t feel like I should be made to follow these rules.” (P3)
-
-    20.3. Being offended with improper grammatical use of pronouns and punctuations.
-
-    >“Just noticed. First letter of pronouns and gender identity is lower case–that bothers me.” (P2)
-
-![Pronouns](./screenshots/round-23/05-pronouns.png)
 
 ### Link Confirmation Modal
 
