@@ -174,7 +174,7 @@ Ease of Use: 57%
 1. Only 2 of 9 participants were able to successfully complete this task, making it the worst performing task of the test session.
 2. The majority of the participants attempted to click in the area to the left of the search icon.
 
-![Table Search](./screenshots/round-14/03-Table-Search.png)
+![Table Search](./screenshots/round-14/03-table-search.png)
 
 ### **Table Column Selector**
 
@@ -192,7 +192,7 @@ Ease of Use: 60%
   a. One participant tried to right-click in the area to the left of the column selector icon.
   b. Three participants did not discover the column selector icon.
 
-![Table Column Selector](./screenshots/round-14/04-Table-Column-Selector.png)
+![Table Column Selector](./screenshots/round-14/04-table-column-selector.png)
 
 #### **Table Column Reordering**
 
@@ -225,7 +225,7 @@ Ease of Use: 81%
 3. One participant noted that “I would prefer having my input item above the table instead of mixed into the data.”
 4. There were no issues or difficulty in entering info directly within the table.
 
-![Input Table](./screenshots/round-14/05-Table-Input.png)
+![Input Table](./screenshots/round-14/05-table-input.png)
 
 #### **Horizontal Radio List**
 
@@ -246,7 +246,7 @@ Ease of Use: 80%
   b. “I personally think the screen would be more readable if the choice lists were vertical and not horizontal.”
 3. Facilitators noted that the Radio List with the lengthy text slowed the participants down.
 
-![Horizontal Radio List](./screenshots/round-14/06-Horizontal-Radio-List.png)
+![Horizontal Radio List](./screenshots/round-14/06-horizontal-radio-list.png)
 
 #### **Horizontal Check List**
 
@@ -262,7 +262,7 @@ Ease of Use: 86%
 2. All 12 participants were able to complete the task successfully.
 3. The facilitators noted that most participants indicated that they would prefer to select items vertically.
 
-![Horizontal Check List](./screenshots/round-14/07-Horizontal-Check-List.png)
+![Horizontal Check List](./screenshots/round-14/07-horizontal-check-list.png)
 
 #### **Dismissible Compact Notice**
 
