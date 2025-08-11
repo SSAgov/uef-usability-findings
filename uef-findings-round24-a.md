@@ -21,8 +21,8 @@ Participants were physically located at the Social Security Administration (SSA)
   * When participants were guided to the arrow icon, they would select it, close the menu, find the Next button, and move on.
 * Two participants used the "return to top" link because it was the first link available on the screen after the open droplist, which seemed to close the menu.
 
-![Combobox with Nothing Selected](./screenshots/pattern-specific/combobox-uba.png)
+![Combobox with Nothing Selected](./screenshots/round-24-a/combobox-uba.png)
 
-![Combobox with Selected Items](./screenshots/pattern-specific/combobox-uba-open.png)
+![Combobox with Selected Items](./screenshots/round-24-a/combobox-uba-open.png)
 
-![Combobox with Selected Items](./screenshots/pattern-specific/combobox-uba-selected.png)
+![Combobox with Selected Items](./screenshots/round-24-a/combobox-uba-selected.png)
