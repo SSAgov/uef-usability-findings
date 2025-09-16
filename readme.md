@@ -2,7 +2,7 @@
 
 ## Background
 
-The SSA Design System is the official design system of the Social Security Administration. The designs are rendered by the User Experience Framework (UEF), a web components framework built by SSA.
+The SSA Design System is the official design system of the Social Security Administration. The designs are rendered by the **User Experience Framework (UEF)**, a web components framework built by SSA.
 
 A design system is a definition of visual style and interactions, achieved via a collection of reusable components, guided by clear standards, that can be assembled together to build any number of applications.
 
@@ -56,3 +56,4 @@ Below are the dates and locations of all the testing sessions.
 ## Related Repositories
 
 - [UEF Snippets for Visual Studio Code](https://github.com/SSAgov/uef-vscode-extension)
+
